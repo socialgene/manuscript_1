@@ -1,0 +1,1370 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="clusterMap"
+   id="root-svg"
+   cursor="grab"
+   width="2161.2698"
+   height="399.86786"
+   version="1.1"
+   sodipodi:docname="lagriamiade.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview451"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.50156852"
+     inkscape:cx="-1.9937455"
+     inkscape:cy="439.62089"
+     inkscape:window-width="3770"
+     inkscape:window-height="2089"
+     inkscape:window-x="70"
+     inkscape:window-y="1149"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="root-svg"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs7">
+    <filter
+       id="filter_solid"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feFlood
+         flood-color="rgba(0, 0, 0, 0.8)"
+         id="feFlood2"
+         result="result1" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result1"
+         id="feComposite4" />
+    </filter>
+  </defs>
+  <g
+     id="g2488"
+     transform="translate(-7.231781,-57.588051)">
+    <circle
+       class="group-58"
+       cy="62.979652"
+       r="4.604651"
+       fill="#6e40aa"
+       cursor="pointer"
+       id="circle304"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="63.979652"
+       cursor="pointer"
+       id="text306">AXA20086.1 sigma-70 RpoE</text>
+    <circle
+       class="group-59"
+       cy="81.398254"
+       r="4.604651"
+       fill="#923db3"
+       cursor="pointer"
+       id="circle310"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="82.398254"
+       cursor="pointer"
+       id="text312">AXA20087.1 competence protein ComEC</text>
+    <circle
+       class="group-60"
+       cy="99.816856"
+       r="4.604651"
+       fill="#b83cb0"
+       cursor="pointer"
+       id="circle316"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="100.81686"
+       cursor="pointer"
+       id="text318">AXA20088.1 transposase</text>
+    <circle
+       class="group-61"
+       cy="118.23546"
+       r="4.604651"
+       fill="#da3fa3"
+       cursor="pointer"
+       id="circle322"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="119.23546"
+       cursor="pointer"
+       id="text324">AXA20089.1 hypothetical protein</text>
+    <circle
+       class="group-62"
+       cy="136.65407"
+       r="4.604651"
+       fill="#f6478d"
+       cursor="pointer"
+       id="circle328"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="137.65407"
+       cursor="pointer"
+       id="text330">AXA20090.1 hybrid trans-AT PKS/NRPS LgaA</text>
+    <circle
+       class="group-63"
+       cy="155.07268"
+       r="4.604651"
+       fill="#ff5572"
+       cursor="pointer"
+       id="circle334"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="156.07268"
+       cursor="pointer"
+       id="text336">AXA20091.1 hybrid trans-AT PKS/NRPS LgaB</text>
+    <circle
+       class="group-64"
+       cy="173.49129"
+       r="4.604651"
+       fill="#ff6956"
+       cursor="pointer"
+       id="circle340"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="174.49129"
+       cursor="pointer"
+       id="text342">AXA20092.1 trans-AT PKS LgaC</text>
+    <circle
+       class="group-65"
+       cy="191.90988"
+       r="4.604651"
+       fill="#ff823e"
+       cursor="pointer"
+       id="circle346"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="192.90988"
+       cursor="pointer"
+       id="text348">AXA20093.1 trans-AT PKS LgaD</text>
+    <circle
+       class="group-66"
+       cy="210.32849"
+       r="4.604651"
+       fill="#f59f30"
+       cursor="pointer"
+       id="circle352"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="211.32849"
+       cursor="pointer"
+       id="text354">AXA20094.1 acyltransferase LgaE</text>
+    <circle
+       class="group-67"
+       cy="228.74709"
+       r="4.604651"
+       fill="#ddbd30"
+       cursor="pointer"
+       id="circle358"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="229.74709"
+       cursor="pointer"
+       id="text360">AXA20095.1 enoylreductase LgaF</text>
+    <circle
+       class="group-68"
+       cy="247.1657"
+       r="4.604651"
+       fill="#c4d93e"
+       cursor="pointer"
+       id="circle364"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="248.1657"
+       cursor="pointer"
+       id="text366">AXA20096.1 trans-AT PKS LgaG</text>
+    <circle
+       class="group-69"
+       cy="265.58429"
+       r="4.604651"
+       fill="#aff05b"
+       cursor="pointer"
+       id="circle370"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="266.58429"
+       cursor="pointer"
+       id="text372">AXA20097.1 nuclear transport factor 2 (NTF2)-like protein LgaL</text>
+    <circle
+       class="group-70"
+       cy="284.0029"
+       r="4.604651"
+       fill="#83f557"
+       cursor="pointer"
+       id="circle376"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="285.0029"
+       cursor="pointer"
+       id="text378">AXA20098.1 MATE family efflux transporter LgaH</text>
+    <circle
+       class="group-71"
+       cy="302.42151"
+       r="4.604651"
+       fill="#5af663"
+       cursor="pointer"
+       id="circle382"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="303.42151"
+       cursor="pointer"
+       id="text384">AXA20099.1 acylhydrolase LgaI</text>
+    <circle
+       class="group-72"
+       cy="320.84012"
+       r="4.604651"
+       fill="#38f17a"
+       cursor="pointer"
+       id="circle388"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="321.84012"
+       cursor="pointer"
+       id="text390">AXA20100.1 transposase</text>
+    <circle
+       class="group-73"
+       cy="339.25873"
+       r="4.604651"
+       fill="#22e597"
+       cursor="pointer"
+       id="circle394"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="340.25873"
+       cursor="pointer"
+       id="text396">AXA20101.1 cytochrome P450 LgaJ</text>
+    <circle
+       class="group-74"
+       cy="357.67731"
+       r="4.604651"
+       fill="#19d3b5"
+       cursor="pointer"
+       id="circle400"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="358.67731"
+       cursor="pointer"
+       id="text402">AXA20102.1 LgaM</text>
+    <circle
+       class="group-75"
+       cy="376.09592"
+       r="4.604651"
+       fill="#1dbbcd"
+       cursor="pointer"
+       id="circle406"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="377.09592"
+       cursor="pointer"
+       id="text408">AXA20103.1 ketoreductase LgaK</text>
+    <circle
+       class="group-76"
+       cy="394.51453"
+       r="4.604651"
+       fill="#29a0dd"
+       cursor="pointer"
+       id="circle412"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="395.51453"
+       cursor="pointer"
+       id="text414">AXA20104.1 phosphoenolpyruvate-protein phosphotransferase</text>
+    <circle
+       class="group-77"
+       cy="412.93314"
+       r="4.604651"
+       fill="#3c84e1"
+       cursor="pointer"
+       id="circle418"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="413.93314"
+       cursor="pointer"
+       id="text420">AXA20105.1 squalene--hopene cyclase</text>
+    <circle
+       class="group-78"
+       cy="431.35175"
+       r="4.604651"
+       fill="#5069d9"
+       cursor="pointer"
+       id="circle424"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="432.35175"
+       cursor="pointer"
+       id="text426">AXA20106.1 all-trans-phytoene synthase</text>
+    <circle
+       class="group-79"
+       cy="449.77036"
+       r="4.604651"
+       fill="#6252c5"
+       cursor="pointer"
+       id="circle430"
+       cx="1765.4185" />
+    <text
+       x="1776.0231"
+       text-anchor="start"
+       style="font-size:14px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:middle"
+       y="450.77036"
+       cursor="pointer"
+       id="text432">AXA20107.1 hypothetical protein</text>
+  </g>
+  <g
+     id="g2606"
+     transform="translate(-7.231781,82.514496)">
+    <path
+       class="geneLink"
+       d="m 665.83835,69.375 c 0,36 9.93,36 9.93,72 h -251.76 c 0,-36 -46.425,-36 -46.425,-72 h 288.255"
+       style="fill:#ff99aa;stroke:#ff5572;stroke-width:0.5px"
+       id="path9" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="535.79962"
+       y="105.375"
+       id="text11">72.7</text>
+    <path
+       class="geneLink"
+       d="m 971.77835,69.375 c 0,36 16.635,36 16.635,72 h -312.69 c 0,-36 -9.93,-36 -9.93,-72 h 305.985"
+       style="fill:#ffa59a;stroke:#ff6956;stroke-width:0.5px"
+       id="path14" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="825.42706"
+       y="105.375"
+       id="text16">71.7</text>
+    <path
+       class="geneLink"
+       d="m 1029.3184,69.375 c 0,36 -0.78,36 -0.78,72 h -40.17005 c 0,-36 -16.635,-36 -16.635,-72 h 57.58505"
+       style="fill:#ffb48b;stroke:#ff823e;stroke-width:0.5px"
+       id="path19" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1004.4896"
+       y="105.375"
+       id="text21">50.4</text>
+    <path
+       class="geneLink"
+       d="m 1046.7484,69.375 c 0,36 -0.315,36 -0.315,72 h -17.22 c 0,-36 0.855,-36 0.855,-72 h 16.6799"
+       style="fill:#f9c583;stroke:#f59f30;stroke-width:0.5px"
+       id="path24" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1038.1158"
+       y="105.375"
+       id="text26">79.5</text>
+    <path
+       class="geneLink"
+       d="m 1067.4784,69.375 c 0,36 -0.315,36 -0.315,72 h -20.145 c 0,-36 -0.315,-36 -0.315,-72 h 20.775"
+       style="fill:#ebd783;stroke:#ddbd30;stroke-width:0.5px"
+       id="path29" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1057.0908"
+       y="105.375"
+       id="text31">87.0</text>
+    <path
+       class="geneLink"
+       d="m 1470.0784,69.375 c 0,36 13.845,36 13.845,72 h -414.75 c 0,-36 0.195,-36 0.195,-72 h 400.71"
+       style="fill:#dce88b;stroke:#c4d93e;stroke-width:0.5px"
+       id="path34" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1273.1359"
+       y="105.375"
+       id="text36">71.8</text>
+    <path
+       class="geneLink"
+       d="m 1477.4134,69.375 c 0,36 13.515,36 13.515,72 h -5.925 c 0,-36 -13.515,-36 -13.515,-72 h 5.925"
+       style="fill:#cff69d;stroke:#aff05b;stroke-width:0.5px"
+       id="path39" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1481.2084"
+       y="105.375"
+       id="text41">73.3</text>
+    <path
+       class="geneLink"
+       d="m 1498.5334,69.375 c 0,36 14.82,36 14.82,72 h -20.37 c 0,-36 -15.045,-36 -15.045,-72 h 20.595"
+       style="fill:#b5f99a;stroke:#83f557;stroke-width:0.5px"
+       id="path44" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1495.702"
+       y="105.375"
+       id="text46">76.3</text>
+    <path
+       class="geneLink"
+       d="m 1514.6284,69.375 c 0,36 15.105,36 15.105,72 h -15.24 c 0,-36 -15.06,-36 -15.06,-72 h 15.195"
+       style="fill:#9cfaa1;stroke:#5af663;stroke-width:0.5px"
+       id="path49" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1514.572"
+       y="105.375"
+       id="text51">71.0</text>
+    <path
+       class="geneLink"
+       d="m 1562.9884,69.375 c 0,36 -20.835,36 -20.835,72 h -11.145 c 0,-36 20.97,-36 20.97,-72 h 11.01"
+       style="fill:#75e5d3;stroke:#19d3b5;stroke-width:0.5px"
+       id="path54" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1547.0321"
+       y="105.375"
+       id="text56">70.5</text>
+    <path
+       class="geneLink"
+       d="m 1575.9334,69.375 c 0,36 -6.63,36 -6.63,72 h -12.225 c 0,-36 6.54,-36 6.54,-72 h 12.315"
+       style="fill:#77d6e1;stroke:#1dbbcd;stroke-width:0.5px"
+       id="path59" />
+    <text
+       class="geneLinkLabel"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+       opacity="1"
+       filter="url(#filter_solid)"
+       x="1566.4833"
+       y="105.375"
+       id="text61">83.1</text>
+    <text
+       class="clusterText"
+       y="66.375"
+       cursor="pointer"
+       style="font-weight:bold;font-size:12px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       text-anchor="end"
+       id="text66"
+       x="178.58334">socialgene_query_BGC0001646</text>
+    <text
+       class="locusText"
+       y="70.375"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+       text-anchor="end"
+       id="text68"
+       x="178.58334">BGC0001646:1191-99394</text>
+    <line
+       class="trackBar"
+       style="fill:#111111;stroke:#111111;stroke-width:1px"
+       x1="188.58334"
+       x2="1661.6434"
+       y1="69.375"
+       y2="69.375"
+       id="line71" />
+    <polygon
+       class="genePolygon group-66"
+       points="858.15,11 846.15,22 846.15,17 841.47,17 841.47,5 846.15,5 846.15,0 "
+       fill="#f59f30"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon73"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text75"
+       x="-56.375"
+       y="1044.4009">AXA20094.1</text>
+    <polygon
+       class="genePolygon group-59"
+       points="10.86,5 10.86,0 13.77,11 10.86,22 10.86,17 "
+       fill="#923db3"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon78"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text80"
+       x="-56.374996"
+       y="206.90584">AXA20087.1</text>
+    <polygon
+       class="genePolygon group-71"
+       points="1326.03,11 1314.03,22 1314.03,17 1310.835,17 1310.835,5 1314.03,5 1314.03,0 "
+       fill="#5af663"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon83"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text85"
+       x="-56.375"
+       y="1513.0234">AXA20099.1</text>
+    <polygon
+       class="genePolygon group-77"
+       points="1450.695,11 1438.695,22 1438.695,17 1420.11,17 1420.11,5 1438.695,5 1438.695,0 "
+       fill="#3c84e1"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon88"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text90"
+       x="-56.375"
+       y="1629.9934">AXA20105.1</text>
+    <polygon
+       class="genePolygon group-60"
+       points="15.21,5 15.21,0 16.86,11 15.21,22 15.21,17 "
+       fill="#b83cb0"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon93"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text95"
+       x="-56.375004"
+       y="214.62585">AXA20088.1</text>
+    <polygon
+       class="genePolygon group-76"
+       points="1390.695,11 1402.695,22 1402.695,17 1417.14,17 1417.14,5 1402.695,5 1402.695,0 "
+       fill="#29a0dd"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon98"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text100"
+       x="-56.375"
+       y="1598.5084">AXA20104.1</text>
+    <polygon
+       class="genePolygon group-78"
+       points="1465.2,11 1453.2,22 1453.2,17 1452.525,17 1452.525,5 1453.2,5 1453.2,0 "
+       fill="#5069d9"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon103"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text105"
+       x="-56.375"
+       y="1653.4534">AXA20106.1</text>
+    <polygon
+       class="genePolygon group-64"
+       points="783.18,11 771.18,22 771.18,17 477.195,17 477.195,5 771.18,5 771.18,0 "
+       fill="#ff6956"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon108"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text110"
+       x="-56.375"
+       y="824.77832">AXA20092.1</text>
+    <polygon
+       class="genePolygon group-67"
+       points="878.88,11 866.88,22 866.88,17 858.105,17 858.105,5 866.88,5 866.88,0 "
+       fill="#ddbd30"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon113"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text115"
+       x="-56.375"
+       y="1063.0834">AXA20095.1</text>
+    <polygon
+       class="genePolygon group-74"
+       points="1363.38,5 1363.38,0 1374.39,11 1363.38,22 1363.38,17 "
+       fill="#19d3b5"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon118"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text120"
+       x="-56.375"
+       y="1563.4758">AXA20102.1</text>
+    <polygon
+       class="genePolygon group-79"
+       points="1466.04,5 1466.04,0 1473.045,11 1466.04,22 1466.04,17 "
+       fill="#6252c5"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon123"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text125"
+       x="-56.375"
+       y="1664.1334">AXA20107.1</text>
+    <polygon
+       class="genePolygon group-61"
+       points="24.555,5 24.555,0 28.905,11 24.555,22 24.555,17 "
+       fill="#da3fa3"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon128"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text130"
+       x="-56.374996"
+       y="225.32085">AXA20089.1</text>
+    <polygon
+       class="genePolygon group-72"
+       points="1336.905,5 1336.905,0 1342.695,11 1336.905,22 1336.905,17 "
+       fill="#38f17a"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon133"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text135"
+       x="-56.375"
+       y="1534.3909">AXA20100.1</text>
+    <polygon
+       class="genePolygon group-62"
+       points="189.03,11 177.03,22 177.03,17 29.115,17 29.115,5 177.03,5 177.03,0 "
+       fill="#f6478d"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon138"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text140"
+       x="-56.375"
+       y="303.66336">AXA20090.1</text>
+    <polygon
+       class="genePolygon group-63"
+       points="477.24,11 465.24,22 465.24,17 188.985,17 188.985,5 465.24,5 465.24,0 "
+       fill="#ff5572"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon143"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text145"
+       x="-56.375"
+       y="527.70337">AXA20091.1</text>
+    <polygon
+       class="genePolygon group-65"
+       points="840.72,11 828.72,22 828.72,17 783.135,17 783.135,5 828.72,5 828.72,0 "
+       fill="#ff823e"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon148"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text150"
+       x="-56.375"
+       y="1006.5183">AXA20093.1</text>
+    <polygon
+       class="genePolygon group-70"
+       points="1309.935,11 1297.935,22 1297.935,17 1289.34,17 1289.34,5 1297.935,5 1297.935,0 "
+       fill="#83f557"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon153"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text155"
+       x="-56.375"
+       y="1494.2284">AXA20098.1</text>
+    <polygon
+       class="genePolygon group-58"
+       points="7.845,5 7.845,0 -0.015,11 7.845,22 7.845,17 "
+       fill="#6e40aa"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon158"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text160"
+       x="-56.375004"
+       y="196.50586">AXA20086.1</text>
+    <polygon
+       class="genePolygon group-75"
+       points="1387.335,11 1375.335,22 1375.335,17 1375.02,17 1375.02,5 1375.335,5 1375.335,0 "
+       fill="#1dbbcd"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon163"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text165"
+       x="-56.375"
+       y="1575.7684">AXA20103.1</text>
+    <polygon
+       class="genePolygon group-69"
+       points="1282.89,5 1282.89,0 1288.815,11 1282.89,22 1282.89,17 "
+       fill="#aff05b"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon168"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text170"
+       x="-56.375"
+       y="1480.4434">AXA20097.1</text>
+    <polygon
+       class="genePolygon group-68"
+       points="1281.48,11 1269.48,22 1269.48,17 880.77,17 880.77,5 1269.48,5 1269.48,0 "
+       fill="#c4d93e"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon173"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text175"
+       x="-56.375"
+       y="1275.7159">AXA20096.1</text>
+    <polygon
+       class="genePolygon group-73"
+       points="1362.435,11 1350.435,22 1350.435,17 1344.675,17 1344.675,5 1350.435,5 1350.435,0 "
+       fill="#22e597"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon178"
+       transform="translate(188.59835,58.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text180"
+       x="-56.375"
+       y="1548.1459">AXA20101.1</text>
+    <text
+       class="clusterText"
+       y="138.375"
+       cursor="pointer"
+       style="font-weight:bold;font-size:12px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       text-anchor="end"
+       id="text189"
+       x="178.58334">GCF_002362315.1</text>
+    <text
+       class="locusText"
+       y="142.375"
+       style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+       text-anchor="end"
+       id="text191"
+       x="178.58334">NZ_MTZV01000001.1:13-88106</text>
+    <line
+       class="trackBar"
+       style="fill:#111111;stroke:#111111;stroke-width:1px"
+       x1="424.00836"
+       x2="1745.4183"
+       y1="141.375"
+       y2="141.375"
+       id="line194" />
+    <polygon
+       class="genePolygon"
+       points="1248.705,11 1260.705,22 1260.705,17 1273.08,17 1273.08,5 1260.705,5 1260.705,0 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon196"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text198"
+       x="-232.375"
+       y="1690.9083">WP_096716374.1</text>
+    <polygon
+       class="genePolygon group-65"
+       points="604.515,11 592.515,22 592.515,17 564.345,17 564.345,5 592.515,5 592.515,0 "
+       fill="#ff823e"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon201"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text203"
+       x="-232.375"
+       y="1014.4458">WP_170043813.1</text>
+    <polygon
+       class="genePolygon group-69"
+       points="1060.98,5 1060.98,0 1066.905,11 1060.98,22 1060.98,17 "
+       fill="#aff05b"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon206"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text208"
+       x="-232.375"
+       y="1493.9584">WP_096716364.1</text>
+    <polygon
+       class="genePolygon"
+       points="1224.48,5 1224.48,0 1219.365,11 1224.48,22 1224.48,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon211"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text213"
+       x="-232.375"
+       y="1651.9384">WP_096716372.1</text>
+    <polygon
+       class="genePolygon group-71"
+       points="1105.71,11 1093.71,22 1093.71,17 1090.47,17 1090.47,5 1093.71,5 1093.71,0 "
+       fill="#5af663"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon216"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text218"
+       x="-232.375"
+       y="1528.1058">WP_096716366.1</text>
+    <polygon
+       class="genePolygon group-63"
+       points="251.745,11 239.745,22 239.745,17 -0.015,17 -0.015,5 239.745,5 239.745,0 "
+       fill="#ff5572"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon221"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text223"
+       x="-232.375"
+       y="555.88086">WP_207556499.1</text>
+    <polygon
+       class="genePolygon"
+       points="1301.88,11 1313.88,22 1313.88,17 1321.395,17 1321.395,5 1313.88,5 1313.88,0 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon226"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text228"
+       x="-232.375"
+       y="1741.6533">WP_096716376.1</text>
+    <polygon
+       class="genePolygon"
+       points="1183.32,11 1171.32,22 1171.32,17 1150.98,17 1150.98,5 1171.32,5 1171.32,0 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon231"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text233"
+       x="-232.375"
+       y="1597.1658">WP_096716370.1</text>
+    <polygon
+       class="genePolygon"
+       points="1236.795,5 1236.795,0 1226.28,11 1236.795,22 1236.795,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon236"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text238"
+       x="-232.375"
+       y="1661.5533">WP_096716373.1</text>
+    <polygon
+       class="genePolygon group-66"
+       points="622.41,11 610.41,22 610.41,17 605.19,17 605.19,5 610.41,5 610.41,0 "
+       fill="#f59f30"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon241"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text243"
+       x="-232.375"
+       y="1043.8158">WP_096716691.1</text>
+    <polygon
+       class="genePolygon group-74"
+       points="1106.985,5 1106.985,0 1118.13,11 1106.985,22 1106.985,17 "
+       fill="#19d3b5"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon246"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text248"
+       x="-232.375"
+       y="1542.5734">WP_096716367.1</text>
+    <polygon
+       class="genePolygon"
+       points="1217.355,11 1205.355,22 1205.355,17 1188.39,17 1188.39,5 1205.355,5 1205.355,0 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon251"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text253"
+       x="-232.375"
+       y="1632.8883">WP_096716371.1</text>
+    <polygon
+       class="genePolygon group-68"
+       points="1059.9,11 1047.9,22 1047.9,17 645.15,17 645.15,5 1047.9,5 1047.9,0 "
+       fill="#c4d93e"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon256"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text258"
+       x="-232.375"
+       y="1282.5409">WP_096716363.1</text>
+    <polygon
+       class="genePolygon"
+       points="1275.9,11 1287.9,22 1287.9,17 1299.555,17 1299.555,5 1287.9,5 1287.9,0 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon261"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text263"
+       x="-232.375"
+       y="1717.7433">WP_096716375.1</text>
+    <polygon
+       class="genePolygon group-70"
+       points="1089.33,11 1077.33,22 1077.33,17 1068.96,17 1068.96,5 1077.33,5 1077.33,0 "
+       fill="#83f557"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon266"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text268"
+       x="-232.375"
+       y="1509.1608">WP_096716365.1</text>
+    <polygon
+       class="genePolygon"
+       points="1129.95,5 1129.95,0 1118.31,11 1129.95,22 1129.95,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon271"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text273"
+       x="-232.375"
+       y="1554.1459">WP_096716368.1</text>
+    <polygon
+       class="genePolygon group-64"
+       points="564.39,11 552.39,22 552.39,17 251.7,17 251.7,5 552.39,5 552.39,0 "
+       fill="#ff6956"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon276"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text278"
+       x="-232.375"
+       y="838.06085">WP_096716360.1</text>
+    <polygon
+       class="genePolygon"
+       points="1236.78,5 1236.78,0 1247.07,11 1236.78,22 1236.78,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon281"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text283"
+       x="-232.375"
+       y="1671.9408">WP_091016627.1</text>
+    <polygon
+       class="genePolygon group-67"
+       points="643.14,11 631.14,22 631.14,17 622.995,17 622.995,5 631.14,5 631.14,0 "
+       fill="#ddbd30"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon286"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text288"
+       x="-232.375"
+       y="1063.0834">WP_207556501.1</text>
+    <polygon
+       class="genePolygon group-75"
+       points="1145.28,11 1133.28,22 1133.28,17 1133.055,17 1133.055,5 1133.28,5 1133.28,0 "
+       fill="#1dbbcd"
+       style="stroke:#000000;stroke-width:1px"
+       id="polygon291"
+       transform="translate(424.02335,130.375)" />
+    <text
+       class="geneLabel"
+       dy="-4.8000002"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       display="inherit"
+       transform="rotate(-90)"
+       font-size="10px"
+       text-anchor="start"
+       id="text293"
+       x="-232.375"
+       y="1569.1833">WP_096716369.1</text>
+    <line
+       class="flatBar"
+       x2="460.76334"
+       y1="178.375"
+       y2="178.375"
+       style="stroke:#000000;stroke-width:1px"
+       id="line438"
+       x1="423.27835" />
+    <line
+       class="leftBar"
+       y2="184.375"
+       style="stroke:#000000;stroke-width:1px"
+       id="line440"
+       x1="423.27835"
+       y1="172.375"
+       x2="423.27835" />
+    <line
+       class="rightBar"
+       x1="460.76334"
+       x2="460.76334"
+       y2="184.375"
+       style="stroke:#000000;stroke-width:1px"
+       id="line442"
+       y1="172.375" />
+    <text
+       class="barText"
+       text-anchor="middle"
+       cursor="pointer"
+       style="font-size:13.3333px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+       x="442.02084"
+       y="189.375"
+       id="text444">2.5kb</text>
+  </g>
+</svg>

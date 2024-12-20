@@ -1,0 +1,105 @@
+>>> a = search_bgc(
+...             input=gbk_path,
+...             hmm_dir="/media/socialgene_nvme/v0.4.1/refseq/socialgene_per_run/hmm_cache",
+...             outpath_clinker=outpath_clinker,
+...             use_neo4j_precalc=True,
+...             assemblies_must_have_x_matches=0.7,
+...             nucleotide_sequences_must_have_x_matches=0.7,
+...             gene_clusters_must_have_x_matches=0.7,
+...             break_bgc_on_gap_of=10000,
+...             target_bgc_padding=20000,
+...             max_domains_per_protein=3,
+...             max_outdegree=1000000,
+...             max_query_proteins=10,
+...             scatter=False,
+...             locus_tag_bypass_list=None,
+...             protein_id_bypass_list=None,
+...             only_culture_collection=False,
+...             frac=0.75,
+...             run_async=True,
+...             analyze_with="blastp",
+...         )
+2024-04-08 09:20:40 INFO     Running search with args: {'input': PosixPath('/home/chase/mibig/mibig_gbk_3.1/BGC0001850.gbk'), 'hmm_dir':     sea.py:34
+                             '/media/socialgene_nvme/v0.4.1/refseq/socialgene_per_run/hmm_cache', 'use_neo4j_precalc': True,                          
+                             'assemblies_must_have_x_matches': 0.7, 'nucleotide_sequences_must_have_x_matches': 0.7,                                  
+                             'gene_clusters_must_have_x_matches': 0.7, 'break_bgc_on_gap_of': 10000, 'target_bgc_padding': 20000,                     
+                             'max_domains_per_protein': 3, 'max_outdegree': 1000000, 'max_query_proteins': 10, 'scatter': False,                      
+                             'locus_tag_bypass_list': None, 'protein_id_bypass_list': None, 'only_culture_collection': False, 'frac': 0.75,           
+                             'run_async': True, 'analyze_with': 'blastp', 'outpath_clinker':                                                          
+                             PosixPath('/home/chase/mibig/socialgene_search/BGC0001850.json'), 'limiter': 1000}                                       
+                    INFO     Parsing: /home/chase/mibig/mibig_gbk_3.1/BGC0001850.gbk                                                    genbank.py:322
+                    INFO     '/home/chase/mibig/mibig_gbk_3.1/BGC0001850.gbk' features {'gene': 20, 'CDS': 20, 'aSDomain': 4,           genbank.py:351
+                             'CDS_motif': 3, 'subregion': 1, 'region': 1}                                                                             
+                    INFO     Input BGC has 20 proteins and/or pseudogenes                                                                  base.py:179
+                    INFO     Annotating input proteins domains                                                                            hmmer.py:273
+                    INFO     Searching database for HMM annotations of 20 proteins.                                                  socialgene.py:122
+                    INFO     Searching database for HMM annotations of 20 proteins.                                                  socialgene.py:122
+                    INFO     Finding the outdegree of all domains from all input proteins                                                 hmmer.py:319
+                                                                                         Outdegree of input protein domains                                                                                          
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━┓
+┃ Protein                          ┃ Locus/Descripton                                                                    ┃ Unique HMM models ┃ Mean    ┃ Min     ┃ 25%     ┃ 50%     ┃ 75%     ┃ Max     ┃ Sum      ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━┩
+│ wNs7ekpuD-RDwVfiqLO0eg2U6NjQpHg- │ RZB16697.1 | StrepF001_25885 | acetyltransferase                                    │ 1                 │ 29698   │ 29698   │ 29698   │ 29698   │ 29698   │ 29698   │ 29698    │
+│ 90OhAlVQq5BrRFnV44GitGEpepY_zZEr │ RZB16698.1 | StrepF001_25890 | acetyltransferase                                    │ 1                 │ 29698   │ 29698   │ 29698   │ 29698   │ 29698   │ 29698   │ 29698    │
+│ uG-Um--bm_FHCq-iy0uo8sHib58ReCw_ │ RZB16706.1 | StrepF001_25935 | phospho-2-dehydro-3-deoxyheptonate aldolase          │ 1                 │ 31616   │ 31616   │ 31616   │ 31616   │ 31616   │ 31616   │ 31616    │
+│ tzmklOd_BQ4zCXJ8OiXEoLGyjQ3LYUuD │ RZB16796.1 | StrepF001_25930 | transposase                                          │ 1                 │ 37301   │ 37301   │ 37301   │ 37301   │ 37301   │ 37301   │ 37301    │
+│ 4J1c7flqmFXPi51mMS_00l66F8wcABmX │ RZB16711.1 | StrepF001_25960 | FAD-binding protein                                  │ 1                 │ 86942   │ 86942   │ 86942   │ 86942   │ 86942   │ 86942   │ 86942    │
+│ KCRfjiLoK7SiZW5lvuqxj5cL71La0pHA │ RZB16699.1 | StrepF001_25895 | amidohydrolase                                       │ 1                 │ 159770  │ 159770  │ 159770  │ 159770  │ 159770  │ 159770  │ 159770   │
+│ LJkzeA6-YkPu5alDDy-m0BbXYw4SKboZ │ RZB16714.1 | StrepF001_25975 | SRPBCC family protein                                │ 1                 │ 169202  │ 169202  │ 169202  │ 169202  │ 169202  │ 169202  │ 169202   │
+│ WnKuODuGjL34CVAQ7kvTIeuaZOBeUZmA │ RZB16701.1 | StrepF001_25905 | NAD(P)H dehydrogenase                                │ 1                 │ 302159  │ 302159  │ 302159  │ 302159  │ 302159  │ 302159  │ 302159   │
+│ kUiC97nMN3p9XGQznxIcoDXjYFjcjeOD │ RZB16700.1 | StrepF001_25900 | nuclear transport factor 2 family protein            │ 2                 │ 187456  │ 130376  │ 158916  │ 187456  │ 215996  │ 244536  │ 374912   │
+│ 4nWmfQ-f7mG0sB3KZqC1b81jBf2xJBik │ RZB16708.1 | StrepF001_25945 | isochorismatase family protein                       │ 2                 │ 218852  │ 218311  │ 218581  │ 218852  │ 219122  │ 219393  │ 437704   │
+│ 0v6Ldmv9eeUG6igtKY-RTxemiOPO-iG9 │ RZB16710.1 | StrepF001_25955 | 3-carboxy-cis,cis-muconate cycloisomerase            │ 4                 │ 156693  │ 14312   │ 42999   │ 149667  │ 263361  │ 313126  │ 626773   │
+│ 1WwuCuwJXaYDZN9b47_IRfrTu8BwWEKe │ RZB16703.1 | StrepF001_25915 | ketoacyl-ACP synthase III                            │ 11                │ 134349  │ 57628   │ 90475   │ 120458  │ 154493  │ 336789  │ 1477843  │
+│ RNafvyyc5PZHMVgzF8FkDrHTqXs9010E │ RZB16709.1 | StrepF001_25950 | phenazine-specific anthranilate synthase component I │ 6                 │ 251985  │ 188522  │ 189971  │ 191421  │ 275032  │ 448157  │ 1511913  │
+│ nEdlX-kJdaVkOWtt0Hd9Ccv828Sjwjah │ RZB16705.1 | StrepF001_25925 | NAD-dependent epimerase/dehydratase family protein   │ 5                 │ 1188287 │ 398082  │ 676063  │ 1008002 │ 1658155 │ 2201136 │ 5941438  │
+│ 35es2QbNXZvIz8lXRZjAgPOdp_9BZMxk │ RZB16704.1 | StrepF001_25920 | TetR family transcriptional regulator                │ 6                 │ 1032524 │ 67660   │ 958175  │ 1224286 │ 1340576 │ 1430103 │ 6195146  │
+│ AAPVmUvcWZtYkxwRx0EV64-OBFtL8HOd │ RZB16715.1 | StrepF001_25980 | NADPH:quinone reductase                              │ 8                 │ 807271  │ 477009  │ 683226  │ 781942  │ 971117  │ 1212634 │ 6458173  │
+│ fkNtoGfCrQQfBSksSqd7Gjv5RdiQH8Ia │ RZB16702.1 | StrepF001_25910 | SDR family oxidoreductase                            │ 6                 │ 1103455 │ 398082  │ 676870  │ 843648  │ 1495616 │ 2201136 │ 6620732  │
+│ 4lkDnHjbCLe38TRMATM7Q7stnchNYbGt │ RZB16712.1 | StrepF001_25965 | FAD-binding protein                                  │ 8                 │ 873320  │ 386741  │ 733530  │ 846835  │ 1036460 │ 1298935 │ 6986563  │
+│ _xvHFg1H1f43WxPcZT1P8Qbcx60chSxh │ RZB16713.1 | StrepF001_25970 | acyl-CoA synthetase                                  │ 4                 │ 2009938 │ 1652043 │ 1697706 │ 1785572 │ 2097804 │ 2816564 │ 8039752  │
+│ 52NDrUtW4VpoW_5metaigrwcSiNy4nLt │ RZB16707.1 | StrepF001_25940 | 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase      │ 17                │ 1860446 │ 11452   │ 1792345 │ 1977594 │ 2154682 │ 2423895 │ 31627592 │
+└──────────────────────────────────┴─────────────────────────────────────────────────────────────────────────────────────┴───────────────────┴─────────┴─────────┴─────────┴─────────┴─────────┴─────────┴──────────┘
+                    INFO     Prioritizing input proteins by outdegree                                                                     hmmer.py:472
+                    INFO     'max_outdegree' is set to 1,000,000, will remove any domains with a higher outdegree                         hmmer.py:362
+                    INFO     'max_outdegree' reduced the total outdegree from 77,144,927 to 18,814,358                                    hmmer.py:368
+                    INFO     'max_domains_per_protein' is set to 3, will remove domains from proteins from highest to lowest outdegree    hmmer.py:385
+                    INFO     'max_domains_per_protein' reduced the total outdegree from 18,814,358 to 10,090,715                          hmmer.py:395
+                    INFO     'max_query_proteins' is set to 10, will limit search to 10 of 19 input proteins                              hmmer.py:410
+                    INFO     'max_query_proteins' reduced the total outdegree from 10,090,715 to 1,062,675                                hmmer.py:426
+                    INFO     The total outdegree was 77,144,927; now it's 1,062,675                                                       hmmer.py:523
+                                                                                   Outdegree of input protein domains                                                                                   
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┳━━━━━━━━┓
+┃ Protein                          ┃ Locus/Descripton                                                               ┃ Unique HMM models ┃ Mean   ┃ Min    ┃ 25%    ┃ 50%    ┃ 75%    ┃ Max    ┃ Sum    ┃
+┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━╇━━━━━━━━╇━━━━━━━━╇━━━━━━━━╇━━━━━━━━╇━━━━━━━━┩
+│ 52NDrUtW4VpoW_5metaigrwcSiNy4nLt │ RZB16707.1 | StrepF001_25940 | 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase │ 1                 │ 11452  │ 11452  │ 11452  │ 11452  │ 11452  │ 11452  │ 11452  │
+│ 90OhAlVQq5BrRFnV44GitGEpepY_zZEr │ RZB16698.1 | StrepF001_25890 | acetyltransferase                               │ 1                 │ 29698  │ 29698  │ 29698  │ 29698  │ 29698  │ 29698  │ 29698  │
+│ wNs7ekpuD-RDwVfiqLO0eg2U6NjQpHg- │ RZB16697.1 | StrepF001_25885 | acetyltransferase                               │ 1                 │ 29698  │ 29698  │ 29698  │ 29698  │ 29698  │ 29698  │ 29698  │
+│ uG-Um--bm_FHCq-iy0uo8sHib58ReCw_ │ RZB16706.1 | StrepF001_25935 | phospho-2-dehydro-3-deoxyheptonate aldolase     │ 1                 │ 31616  │ 31616  │ 31616  │ 31616  │ 31616  │ 31616  │ 31616  │
+│ tzmklOd_BQ4zCXJ8OiXEoLGyjQ3LYUuD │ RZB16796.1 | StrepF001_25930 | transposase                                     │ 1                 │ 37301  │ 37301  │ 37301  │ 37301  │ 37301  │ 37301  │ 37301  │
+│ 4J1c7flqmFXPi51mMS_00l66F8wcABmX │ RZB16711.1 | StrepF001_25960 | FAD-binding protein                             │ 1                 │ 86942  │ 86942  │ 86942  │ 86942  │ 86942  │ 86942  │ 86942  │
+│ KCRfjiLoK7SiZW5lvuqxj5cL71La0pHA │ RZB16699.1 | StrepF001_25895 | amidohydrolase                                  │ 1                 │ 159770 │ 159770 │ 159770 │ 159770 │ 159770 │ 159770 │ 159770 │
+│ LJkzeA6-YkPu5alDDy-m0BbXYw4SKboZ │ RZB16714.1 | StrepF001_25975 | SRPBCC family protein                           │ 1                 │ 169202 │ 169202 │ 169202 │ 169202 │ 169202 │ 169202 │ 169202 │
+│ 1WwuCuwJXaYDZN9b47_IRfrTu8BwWEKe │ RZB16703.1 | StrepF001_25915 | ketoacyl-ACP synthase III                       │ 3                 │ 68279  │ 57628  │ 58506  │ 59385  │ 73604  │ 87824  │ 204837 │
+│ WnKuODuGjL34CVAQ7kvTIeuaZOBeUZmA │ RZB16701.1 | StrepF001_25905 | NAD(P)H dehydrogenase                           │ 1                 │ 302159 │ 302159 │ 302159 │ 302159 │ 302159 │ 302159 │ 302159 │
+└──────────────────────────────────┴────────────────────────────────────────────────────────────────────────────────┴───────────────────┴────────┴────────┴────────┴────────┴────────┴────────┴────────┘
+                    INFO     Searching database for proteins with similar domain content and all of the genomes those are found in        hmmer.py:244
+ 
+2024-04-08 09:23:58 INFO     Initial search returned 4,017,075 proteins, found in 325,656 genomes                                         hmmer.py:268
+2024-04-08 09:23:59 INFO     Starting with matches across 325656 genomes                                                                   base.py:197
+                    INFO     Filtering on assembly_uid where unique hits >= 0.7                                                            base.py:553
+                    INFO     Counting unique hits per assembly_uid                                                                         base.py:537
+2024-04-08 09:24:05 INFO     121360 assemblies, 1206491 nucleotide sequences had assembly_uids with >= 7 unique query hits                 base.py:562
+                    INFO     Filtering on nucleotide_uid where unique hits >= 0.7                                                          base.py:553
+                    INFO     Counting unique hits per nucleotide_uid                                                                       base.py:537
+2024-04-08 09:24:09 INFO     19312 assemblies, 19406 nucleotide sequences had nucleotide_uids with >= 7 unique query hits                  base.py:562
+                    INFO     Grouping protein hits if less than 10000 bp apart                                                             base.py:586
+                    INFO     Sorting genes by start position                                                                               base.py:570
+2024-04-08 09:24:15 INFO     First pass resulted in 156 assemblies, 156 nucleotide sequences had 158 putative BGCs                           sea.py:63
+                    INFO     Pulling data from the database for 156 putative BGCs                                                          base.py:353
+2024-04-08 09:24:17 INFO     Time to fill: 2 seconds                                                                                       base.py:370
+2024-04-08 09:24:18 INFO     Start: Creating links                                                                                         base.py:446
+                    INFO     Finding reciprocal best hits; protein similarity via Diamond BLASTp                                           base.py:456
+2024-04-08 09:25:38 INFO     Finish: Creating links; 2013 links produced                                                                   base.py:486
+                    INFO     Start: Assigning target BGC proteins to input BGC groups                                                      base.py:493
+                    INFO     Finish: Assigning target BGC proteins to input BGC groups                                                     base.py:503

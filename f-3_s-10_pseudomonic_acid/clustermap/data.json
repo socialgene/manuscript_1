@@ -1,0 +1,3441 @@
+{
+    "clusters": [
+        {
+            "uid": "1",
+            "name": "BGC0000182",
+            "loci": [
+                {
+                    "uid": "2",
+                    "name": "BGC0000182",
+                    "genes": [
+                        {
+                            "uid": "3",
+                            "label": "AAM12926.1",
+                            "names": {
+                                "name": "AAM12926.1",
+                                "description": "MupL",
+                                "id": "AAM12926.1",
+                                "locus_tag": null
+                            },
+                            "start": 53423,
+                            "end": 54361,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "4",
+                            "label": "AAM12921.1",
+                            "names": {
+                                "name": "AAM12921.1",
+                                "description": "MupG",
+                                "id": "AAM12921.1",
+                                "locus_tag": null
+                            },
+                            "start": 45729,
+                            "end": 46967,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "5",
+                            "label": "AAM12922.1",
+                            "names": {
+                                "name": "AAM12922.1",
+                                "description": "MupH",
+                                "id": "AAM12922.1",
+                                "locus_tag": null
+                            },
+                            "start": 46964,
+                            "end": 48229,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "6",
+                            "label": "AAK28504.1",
+                            "names": {
+                                "name": "AAK28504.1",
+                                "description": "MupR",
+                                "id": "AAK28504.1",
+                                "locus_tag": null
+                            },
+                            "start": 71638,
+                            "end": 72342,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "7",
+                            "label": "AAM12909.2",
+                            "names": {
+                                "name": "AAM12909.2",
+                                "description": "MmpA",
+                                "id": "AAM12909.2",
+                                "locus_tag": null
+                            },
+                            "start": 1706,
+                            "end": 10243,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "8",
+                            "label": "AAM12920.1",
+                            "names": {
+                                "name": "AAM12920.1",
+                                "description": "MacpC",
+                                "id": "AAM12920.1",
+                                "locus_tag": null
+                            },
+                            "start": 45506,
+                            "end": 45742,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "9",
+                            "label": "AFD33556.1",
+                            "names": {
+                                "name": "AFD33556.1",
+                                "description": "MupZ",
+                                "id": "AFD33556.1",
+                                "locus_tag": null
+                            },
+                            "start": 201,
+                            "end": 569,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "10",
+                            "label": "AAK28503.1",
+                            "names": {
+                                "name": "AAK28503.1",
+                                "description": "MupA",
+                                "id": "AAK28503.1",
+                                "locus_tag": null
+                            },
+                            "start": 600,
+                            "end": 1709,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "11",
+                            "label": "AAM12940.1",
+                            "names": {
+                                "name": "AAM12940.1",
+                                "description": "MupX",
+                                "id": "AAM12940.1",
+                                "locus_tag": null
+                            },
+                            "start": 72380,
+                            "end": 73918,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "12",
+                            "label": "AAM12916.1",
+                            "names": {
+                                "name": "AAM12916.1",
+                                "description": "MupD",
+                                "id": "AAM12916.1",
+                                "locus_tag": null
+                            },
+                            "start": 42216,
+                            "end": 42959,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "13",
+                            "label": "AAM12917.1",
+                            "names": {
+                                "name": "AAM12917.1",
+                                "description": "MupE",
+                                "id": "AAM12917.1",
+                                "locus_tag": null
+                            },
+                            "start": 42983,
+                            "end": 44005,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "14",
+                            "label": "AAM12919.1",
+                            "names": {
+                                "name": "AAM12919.1",
+                                "description": "MupF",
+                                "id": "AAM12919.1",
+                                "locus_tag": null
+                            },
+                            "start": 44334,
+                            "end": 45344,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "15",
+                            "label": "AAM12928.2",
+                            "names": {
+                                "name": "AAM12928.2",
+                                "description": "MupN",
+                                "id": "AAM12928.2",
+                                "locus_tag": null
+                            },
+                            "start": 57597,
+                            "end": 58448,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "16",
+                            "label": "AAM12931.1",
+                            "names": {
+                                "name": "AAM12931.1",
+                                "description": "MupQ",
+                                "id": "AAM12931.1",
+                                "locus_tag": null
+                            },
+                            "start": 60912,
+                            "end": 62267,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "17",
+                            "label": "AAM12929.2",
+                            "names": {
+                                "name": "AAM12929.2",
+                                "description": "MupO",
+                                "id": "AAM12929.2",
+                                "locus_tag": null
+                            },
+                            "start": 58574,
+                            "end": 59938,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "18",
+                            "label": "AAM12911.1",
+                            "names": {
+                                "name": "AAM12911.1",
+                                "description": "MmpB",
+                                "id": "AAM12911.1",
+                                "locus_tag": null
+                            },
+                            "start": 11325,
+                            "end": 17555,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "19",
+                            "label": "AAM12935.1",
+                            "names": {
+                                "name": "AAM12935.1",
+                                "description": "MacpE",
+                                "id": "AAM12935.1",
+                                "locus_tag": null
+                            },
+                            "start": 65730,
+                            "end": 65972,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "20",
+                            "label": "AAM12932.1",
+                            "names": {
+                                "name": "AAM12932.1",
+                                "description": "MupS",
+                                "id": "AAM12932.1",
+                                "locus_tag": null
+                            },
+                            "start": 62264,
+                            "end": 63037,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "21",
+                            "label": "AAM12925.2",
+                            "names": {
+                                "name": "AAM12925.2",
+                                "description": "MmpE",
+                                "id": "AAM12925.2",
+                                "locus_tag": null
+                            },
+                            "start": 49802,
+                            "end": 53377,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "22",
+                            "label": "AAM12918.1",
+                            "names": {
+                                "name": "AAM12918.1",
+                                "description": "MacpB",
+                                "id": "AAM12918.1",
+                                "locus_tag": null
+                            },
+                            "start": 44062,
+                            "end": 44313,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "23",
+                            "label": "AAM12938.1",
+                            "names": {
+                                "name": "AAM12938.1",
+                                "description": "MupV",
+                                "id": "AAM12938.1",
+                                "locus_tag": null
+                            },
+                            "start": 68027,
+                            "end": 70015,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "24",
+                            "label": "AAM12927.2",
+                            "names": {
+                                "name": "AAM12927.2",
+                                "description": "MupM",
+                                "id": "AAM12927.2",
+                                "locus_tag": null
+                            },
+                            "start": 54444,
+                            "end": 57536,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "25",
+                            "label": "AAM12936.1",
+                            "names": {
+                                "name": "AAM12936.1",
+                                "description": "MupT",
+                                "id": "AAM12936.1",
+                                "locus_tag": null
+                            },
+                            "start": 65995,
+                            "end": 66345,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "26",
+                            "label": "AAM12939.1",
+                            "names": {
+                                "name": "AAM12939.1",
+                                "description": "MupW",
+                                "id": "AAM12939.1",
+                                "locus_tag": null
+                            },
+                            "start": 70055,
+                            "end": 71446,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "27",
+                            "label": "AAM12930.2",
+                            "names": {
+                                "name": "AAM12930.2",
+                                "description": "MupP",
+                                "id": "AAM12930.2",
+                                "locus_tag": null
+                            },
+                            "start": 59935,
+                            "end": 60864,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "28",
+                            "label": "AAK28505.1",
+                            "names": {
+                                "name": "AAK28505.1",
+                                "description": "MupI",
+                                "id": "AAK28505.1",
+                                "locus_tag": null
+                            },
+                            "start": 73911,
+                            "end": 74486,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "29",
+                            "label": "AAM12910.1",
+                            "names": {
+                                "name": "AAM12910.1",
+                                "description": "MupB",
+                                "id": "AAM12910.1",
+                                "locus_tag": null
+                            },
+                            "start": 10278,
+                            "end": 11183,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "30",
+                            "label": "AAM12937.1",
+                            "names": {
+                                "name": "AAM12937.1",
+                                "description": "MupU",
+                                "id": "AAM12937.1",
+                                "locus_tag": null
+                            },
+                            "start": 66415,
+                            "end": 67992,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "31",
+                            "label": "AAM12914.1",
+                            "names": {
+                                "name": "AAM12914.1",
+                                "description": "MupC",
+                                "id": "AAM12914.1",
+                                "locus_tag": null
+                            },
+                            "start": 40523,
+                            "end": 41818,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "32",
+                            "label": "AAM12933.1",
+                            "names": {
+                                "name": "AAM12933.1",
+                                "description": "MacpD",
+                                "id": "AAM12933.1",
+                                "locus_tag": null
+                            },
+                            "start": 63031,
+                            "end": 63351,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "33",
+                            "label": "AAM12915.1",
+                            "names": {
+                                "name": "AAM12915.1",
+                                "description": "MacpA",
+                                "id": "AAM12915.1",
+                                "locus_tag": null
+                            },
+                            "start": 41870,
+                            "end": 42175,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "34",
+                            "label": "AAM12934.1",
+                            "names": {
+                                "name": "AAM12934.1",
+                                "description": "MmpF",
+                                "id": "AAM12934.1",
+                                "locus_tag": null
+                            },
+                            "start": 63348,
+                            "end": 65585,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "35",
+                            "label": "AAM12924.1",
+                            "names": {
+                                "name": "AAM12924.1",
+                                "description": "MupK",
+                                "id": "AAM12924.1",
+                                "locus_tag": null
+                            },
+                            "start": 49047,
+                            "end": 49790,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "36",
+                            "label": "AAM12923.1",
+                            "names": {
+                                "name": "AAM12923.1",
+                                "description": "MupJ",
+                                "id": "AAM12923.1",
+                                "locus_tag": null
+                            },
+                            "start": 48226,
+                            "end": 48993,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "37",
+                            "label": "AAM12913.2",
+                            "names": {
+                                "name": "AAM12913.2",
+                                "description": "MmpD",
+                                "id": "AAM12913.2",
+                                "locus_tag": null
+                            },
+                            "start": 20958,
+                            "end": 40526,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "38",
+                            "label": "AAM12912.1",
+                            "names": {
+                                "name": "AAM12912.1",
+                                "description": "MmpC",
+                                "id": "AAM12912.1",
+                                "locus_tag": null
+                            },
+                            "start": 17629,
+                            "end": 20961,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 201,
+                    "end": 74486
+                }
+            ]
+        },
+        {
+            "uid": "39",
+            "name": "GCF_002814235.1",
+            "loci": [
+                {
+                    "uid": "40",
+                    "name": "NZ_PHSU01000014.1",
+                    "genes": [
+                        {
+                            "uid": "41",
+                            "label": "WP_177143934.1",
+                            "names": {
+                                "name": "WP_177143934.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_177143934.1",
+                                "locus_tag": "CWE01_RS33580"
+                            },
+                            "start": 126806,
+                            "end": 126967,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "42",
+                            "label": "WP_100941033.1",
+                            "names": {
+                                "name": "WP_100941033.1",
+                                "description": "amidase",
+                                "id": "WP_100941033.1",
+                                "locus_tag": "CWE01_RS13530"
+                            },
+                            "start": 112036,
+                            "end": 113571,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "43",
+                            "label": "WP_100940993.1",
+                            "names": {
+                                "name": "WP_100940993.1",
+                                "description": "efflux transporter outer membrane subunit",
+                                "id": "WP_100940993.1",
+                                "locus_tag": "CWE01_RS13330"
+                            },
+                            "start": 30380,
+                            "end": 31810,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "44",
+                            "label": "WP_121140477.1",
+                            "names": {
+                                "name": "WP_121140477.1",
+                                "description": "acyl carrier protein",
+                                "id": "WP_121140477.1",
+                                "locus_tag": "CWE01_RS33575"
+                            },
+                            "start": 102730,
+                            "end": 103053,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "45",
+                            "label": "WP_100941018.1",
+                            "names": {
+                                "name": "WP_100941018.1",
+                                "description": "FAD-dependent monooxygenase",
+                                "id": "WP_100941018.1",
+                                "locus_tag": "CWE01_RS13455"
+                            },
+                            "start": 89606,
+                            "end": 93202,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "46",
+                            "label": "WP_100941005.1",
+                            "names": {
+                                "name": "WP_100941005.1",
+                                "description": "ACP S-malonyltransferase",
+                                "id": "WP_100941005.1",
+                                "locus_tag": "CWE01_RS13390"
+                            },
+                            "start": 57175,
+                            "end": 60486,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "47",
+                            "label": "WP_100941035.1",
+                            "names": {
+                                "name": "WP_100941035.1",
+                                "description": "helix-turn-helix domain-containing protein",
+                                "id": "WP_100941035.1",
+                                "locus_tag": "CWE01_RS13540"
+                            },
+                            "start": 114291,
+                            "end": 114500,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "48",
+                            "label": "WP_100941041.1",
+                            "names": {
+                                "name": "WP_100941041.1",
+                                "description": "substrate-binding domain-containing protein",
+                                "id": "WP_100941041.1",
+                                "locus_tag": "CWE01_RS13575"
+                            },
+                            "start": 120819,
+                            "end": 121874,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "49",
+                            "label": "WP_100941031.1",
+                            "names": {
+                                "name": "WP_100941031.1",
+                                "description": "aromatic ring-hydroxylating dioxygenase subunit alpha",
+                                "id": "WP_100941031.1",
+                                "locus_tag": "CWE01_RS13520"
+                            },
+                            "start": 109649,
+                            "end": 111067,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "50",
+                            "label": "WP_100941008.1",
+                            "names": {
+                                "name": "WP_100941008.1",
+                                "description": "acyl carrier protein",
+                                "id": "WP_100941008.1",
+                                "locus_tag": "CWE01_RS13405"
+                            },
+                            "start": 81691,
+                            "end": 81969,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "51",
+                            "label": "WP_100941042.1",
+                            "names": {
+                                "name": "WP_100941042.1",
+                                "description": "TonB-dependent receptor",
+                                "id": "WP_100941042.1",
+                                "locus_tag": "CWE01_RS13580"
+                            },
+                            "start": 122287,
+                            "end": 124686,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "52",
+                            "label": "WP_100941001.1",
+                            "names": {
+                                "name": "WP_100941001.1",
+                                "description": "LLM class flavin-dependent oxidoreductase",
+                                "id": "WP_100941001.1",
+                                "locus_tag": "CWE01_RS13370"
+                            },
+                            "start": 40249,
+                            "end": 41358,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "53",
+                            "label": "WP_100941029.1",
+                            "names": {
+                                "name": "WP_100941029.1",
+                                "description": "acyl--CoA ligase",
+                                "id": "WP_100941029.1",
+                                "locus_tag": "CWE01_RS13510"
+                            },
+                            "start": 105977,
+                            "end": 107563,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "54",
+                            "label": "WP_100941047.1",
+                            "names": {
+                                "name": "WP_100941047.1",
+                                "description": "helix-turn-helix transcriptional regulator",
+                                "id": "WP_100941047.1",
+                                "locus_tag": "CWE01_RS13615"
+                            },
+                            "start": 131349,
+                            "end": 131870,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "55",
+                            "label": "WP_100941037.1",
+                            "names": {
+                                "name": "WP_100941037.1",
+                                "description": "MetQ/NlpA family ABC transporter substrate-binding protein",
+                                "id": "WP_100941037.1",
+                                "locus_tag": "CWE01_RS13550"
+                            },
+                            "start": 115872,
+                            "end": 116687,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "56",
+                            "label": "WP_100941017.1",
+                            "names": {
+                                "name": "WP_100941017.1",
+                                "description": "polyketide synthase",
+                                "id": "WP_100941017.1",
+                                "locus_tag": "CWE01_RS13450"
+                            },
+                            "start": 88847,
+                            "end": 89593,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "57",
+                            "label": "WP_177410475.1",
+                            "names": {
+                                "name": "WP_177410475.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_177410475.1",
+                                "locus_tag": "CWE01_RS13395"
+                            },
+                            "start": 60483,
+                            "end": 80243,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "58",
+                            "label": "WP_100941034.1",
+                            "names": {
+                                "name": "WP_100941034.1",
+                                "description": "acyl-homoserine-lactone synthase",
+                                "id": "WP_100941034.1",
+                                "locus_tag": "CWE01_RS13535"
+                            },
+                            "start": 113583,
+                            "end": 114158,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "59",
+                            "label": "WP_100940995.1",
+                            "names": {
+                                "name": "WP_100940995.1",
+                                "description": "efflux RND transporter permease subunit",
+                                "id": "WP_100940995.1",
+                                "locus_tag": "CWE01_RS13340"
+                            },
+                            "start": 32907,
+                            "end": 35939,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "60",
+                            "label": "WP_177410476.1",
+                            "names": {
+                                "name": "WP_177410476.1",
+                                "description": "polyketide synthase",
+                                "id": "WP_177410476.1",
+                                "locus_tag": "CWE01_RS13495"
+                            },
+                            "start": 103050,
+                            "end": 105296,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "61",
+                            "label": "WP_100940997.1",
+                            "names": {
+                                "name": "WP_100940997.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_100940997.1",
+                                "locus_tag": "CWE01_RS13350"
+                            },
+                            "start": 36883,
+                            "end": 37644,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "62",
+                            "label": "WP_256579351.1",
+                            "names": {
+                                "name": "WP_256579351.1",
+                                "description": "efflux transporter outer membrane subunit",
+                                "id": "WP_256579351.1",
+                                "locus_tag": "CWE01_RS13600"
+                            },
+                            "start": 127152,
+                            "end": 128618,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "63",
+                            "label": "WP_100941016.1",
+                            "names": {
+                                "name": "WP_100941016.1",
+                                "description": "enoyl-CoA hydratase/isomerase",
+                                "id": "WP_100941016.1",
+                                "locus_tag": "CWE01_RS13445"
+                            },
+                            "start": 88044,
+                            "end": 88811,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "64",
+                            "label": "WP_100941019.1",
+                            "names": {
+                                "name": "WP_100941019.1",
+                                "description": "alpha/beta hydrolase",
+                                "id": "WP_100941019.1",
+                                "locus_tag": "CWE01_RS13460"
+                            },
+                            "start": 93199,
+                            "end": 94056,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "65",
+                            "label": "WP_100941032.1",
+                            "names": {
+                                "name": "WP_100941032.1",
+                                "description": "LuxR family transcriptional regulator",
+                                "id": "WP_100941032.1",
+                                "locus_tag": "CWE01_RS13525"
+                            },
+                            "start": 111290,
+                            "end": 111991,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "66",
+                            "label": "WP_100941012.1",
+                            "names": {
+                                "name": "WP_100941012.1",
+                                "description": "NAD-dependent epimerase/dehydratase family protein",
+                                "id": "WP_100941012.1",
+                                "locus_tag": "CWE01_RS13425"
+                            },
+                            "start": 84147,
+                            "end": 85145,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "67",
+                            "label": "WP_100941014.1",
+                            "names": {
+                                "name": "WP_100941014.1",
+                                "description": "polyketide beta-ketoacyl:ACP synthase",
+                                "id": "WP_100941014.1",
+                                "locus_tag": "CWE01_RS13435"
+                            },
+                            "start": 85550,
+                            "end": 86785,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "68",
+                            "label": "WP_100941027.1",
+                            "names": {
+                                "name": "WP_100941027.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_100941027.1",
+                                "locus_tag": "CWE01_RS13500"
+                            },
+                            "start": 105297,
+                            "end": 105539,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "69",
+                            "label": "WP_100941046.1",
+                            "names": {
+                                "name": "WP_100941046.1",
+                                "description": "HlyD family secretion protein",
+                                "id": "WP_100941046.1",
+                                "locus_tag": "CWE01_RS13610"
+                            },
+                            "start": 130201,
+                            "end": 131325,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "70",
+                            "label": "WP_100941004.1",
+                            "names": {
+                                "name": "WP_100941004.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_100941004.1",
+                                "locus_tag": "CWE01_RS13385"
+                            },
+                            "start": 51100,
+                            "end": 57102,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "71",
+                            "label": "WP_100940996.1",
+                            "names": {
+                                "name": "WP_100940996.1",
+                                "description": "helix-turn-helix transcriptional regulator",
+                                "id": "WP_100940996.1",
+                                "locus_tag": "CWE01_RS13345"
+                            },
+                            "start": 35987,
+                            "end": 36811,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "72",
+                            "label": "WP_100941021.1",
+                            "names": {
+                                "name": "WP_100941021.1",
+                                "description": "4'-phosphopantetheinyl transferase superfamily protein",
+                                "id": "WP_100941021.1",
+                                "locus_tag": "CWE01_RS13470"
+                            },
+                            "start": 97265,
+                            "end": 98131,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "73",
+                            "label": "WP_100940998.1",
+                            "names": {
+                                "name": "WP_100940998.1",
+                                "description": "threonine transporter RhtB",
+                                "id": "WP_100940998.1",
+                                "locus_tag": "CWE01_RS13355"
+                            },
+                            "start": 38019,
+                            "end": 38624,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "74",
+                            "label": "WP_100941011.1",
+                            "names": {
+                                "name": "WP_100941011.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_100941011.1",
+                                "locus_tag": "CWE01_RS13420"
+                            },
+                            "start": 83862,
+                            "end": 84119,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "75",
+                            "label": "WP_100941015.1",
+                            "names": {
+                                "name": "WP_100941015.1",
+                                "description": "hydroxymethylglutaryl-CoA synthase family protein",
+                                "id": "WP_100941015.1",
+                                "locus_tag": "CWE01_RS13440"
+                            },
+                            "start": 86782,
+                            "end": 88047,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "76",
+                            "label": "WP_100941044.1",
+                            "names": {
+                                "name": "WP_100941044.1",
+                                "description": "XRE family transcriptional regulator",
+                                "id": "WP_100941044.1",
+                                "locus_tag": "CWE01_RS13595"
+                            },
+                            "start": 126162,
+                            "end": 126809,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "77",
+                            "label": "WP_100941010.1",
+                            "names": {
+                                "name": "WP_100941010.1",
+                                "description": "zinc-binding dehydrogenase",
+                                "id": "WP_100941010.1",
+                                "locus_tag": "CWE01_RS13415"
+                            },
+                            "start": 82777,
+                            "end": 83799,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "78",
+                            "label": "WP_100941009.1",
+                            "names": {
+                                "name": "WP_100941009.1",
+                                "description": "SDR family oxidoreductase",
+                                "id": "WP_100941009.1",
+                                "locus_tag": "CWE01_RS13410"
+                            },
+                            "start": 82007,
+                            "end": 82756,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "79",
+                            "label": "WP_100940991.1",
+                            "names": {
+                                "name": "WP_100940991.1",
+                                "description": "MacB family efflux pump subunit",
+                                "id": "WP_100940991.1",
+                                "locus_tag": "CWE01_RS13320"
+                            },
+                            "start": 26686,
+                            "end": 28647,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "80",
+                            "label": "WP_256579353.1",
+                            "names": {
+                                "name": "WP_256579353.1",
+                                "description": "ABC transporter permease",
+                                "id": "WP_256579353.1",
+                                "locus_tag": "CWE01_RS13560"
+                            },
+                            "start": 117511,
+                            "end": 118170,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "81",
+                            "label": "WP_100941038.1",
+                            "names": {
+                                "name": "WP_100941038.1",
+                                "description": "ATP-binding cassette domain-containing protein",
+                                "id": "WP_100941038.1",
+                                "locus_tag": "CWE01_RS13555"
+                            },
+                            "start": 116684,
+                            "end": 117502,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "82",
+                            "label": "WP_100941003.1",
+                            "names": {
+                                "name": "WP_100941003.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_100941003.1",
+                                "locus_tag": "CWE01_RS13380"
+                            },
+                            "start": 50054,
+                            "end": 50968,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "83",
+                            "label": "WP_100941000.1",
+                            "names": {
+                                "name": "WP_100941000.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_100941000.1",
+                                "locus_tag": "CWE01_RS13365"
+                            },
+                            "start": 39846,
+                            "end": 40259,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "84",
+                            "label": "WP_100940994.1",
+                            "names": {
+                                "name": "WP_100940994.1",
+                                "description": "efflux RND transporter periplasmic adaptor subunit",
+                                "id": "WP_100940994.1",
+                                "locus_tag": "CWE01_RS13335"
+                            },
+                            "start": 31807,
+                            "end": 32910,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "85",
+                            "label": "WP_100941043.1",
+                            "names": {
+                                "name": "WP_100941043.1",
+                                "description": "DUF3574 domain-containing protein",
+                                "id": "WP_100941043.1",
+                                "locus_tag": "CWE01_RS13585"
+                            },
+                            "start": 124724,
+                            "end": 125185,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "86",
+                            "label": "WP_100941169.1",
+                            "names": {
+                                "name": "WP_100941169.1",
+                                "description": "sugar ABC transporter ATP-binding protein",
+                                "id": "WP_100941169.1",
+                                "locus_tag": "CWE01_RS13565"
+                            },
+                            "start": 118209,
+                            "end": 119771,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "87",
+                            "label": "WP_100940992.1",
+                            "names": {
+                                "name": "WP_100940992.1",
+                                "description": "diaminobutyrate--2-oxoglutarate transaminase family protein",
+                                "id": "WP_100940992.1",
+                                "locus_tag": "CWE01_RS13325"
+                            },
+                            "start": 28768,
+                            "end": 30102,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "88",
+                            "label": "WP_157815215.1",
+                            "names": {
+                                "name": "WP_157815215.1",
+                                "description": "Rieske (2Fe-2S) protein",
+                                "id": "WP_157815215.1",
+                                "locus_tag": "CWE01_RS13505"
+                            },
+                            "start": 105529,
+                            "end": 105912,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "89",
+                            "label": "WP_100941013.1",
+                            "names": {
+                                "name": "WP_100941013.1",
+                                "description": "acyl carrier protein",
+                                "id": "WP_100941013.1",
+                                "locus_tag": "CWE01_RS13430"
+                            },
+                            "start": 85324,
+                            "end": 85563,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "90",
+                            "label": "WP_100941024.1",
+                            "names": {
+                                "name": "WP_100941024.1",
+                                "description": "fatty acid--CoA ligase family protein",
+                                "id": "WP_100941024.1",
+                                "locus_tag": "CWE01_RS13485"
+                            },
+                            "start": 100617,
+                            "end": 101972,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "91",
+                            "label": "WP_100941036.1",
+                            "names": {
+                                "name": "WP_100941036.1",
+                                "description": "isopenicillin N synthase family oxygenase",
+                                "id": "WP_100941036.1",
+                                "locus_tag": "CWE01_RS13545"
+                            },
+                            "start": 114806,
+                            "end": 115843,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "92",
+                            "label": "WP_177143951.1",
+                            "names": {
+                                "name": "WP_177143951.1",
+                                "description": "LuxR family transcriptional regulator",
+                                "id": "WP_177143951.1",
+                                "locus_tag": "CWE01_RS13360"
+                            },
+                            "start": 38699,
+                            "end": 39430,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "93",
+                            "label": "WP_100940990.1",
+                            "names": {
+                                "name": "WP_100940990.1",
+                                "description": "macrolide transporter subunit MacA",
+                                "id": "WP_100940990.1",
+                                "locus_tag": "CWE01_RS13315"
+                            },
+                            "start": 25526,
+                            "end": 26683,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "94",
+                            "label": "WP_100941020.1",
+                            "names": {
+                                "name": "WP_100941020.1",
+                                "description": "isoleucine--tRNA ligase",
+                                "id": "WP_100941020.1",
+                                "locus_tag": "CWE01_RS13465"
+                            },
+                            "start": 94103,
+                            "end": 97195,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "95",
+                            "label": "WP_100941023.1",
+                            "names": {
+                                "name": "WP_100941023.1",
+                                "description": "VOC family protein",
+                                "id": "WP_100941023.1",
+                                "locus_tag": "CWE01_RS13480"
+                            },
+                            "start": 99631,
+                            "end": 100569,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "96",
+                            "label": "WP_100941040.1",
+                            "names": {
+                                "name": "WP_100941040.1",
+                                "description": "ABC transporter permease",
+                                "id": "WP_100941040.1",
+                                "locus_tag": "CWE01_RS13570"
+                            },
+                            "start": 119764,
+                            "end": 120789,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "97",
+                            "label": "WP_100941045.1",
+                            "names": {
+                                "name": "WP_100941045.1",
+                                "description": "DHA2 family efflux MFS transporter permease subunit",
+                                "id": "WP_100941045.1",
+                                "locus_tag": "CWE01_RS13605"
+                            },
+                            "start": 128639,
+                            "end": 130204,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "98",
+                            "label": "WP_100941025.1",
+                            "names": {
+                                "name": "WP_100941025.1",
+                                "description": "SDR family oxidoreductase",
+                                "id": "WP_100941025.1",
+                                "locus_tag": "CWE01_RS13490"
+                            },
+                            "start": 101969,
+                            "end": 102736,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "99",
+                            "label": "WP_157815216.1",
+                            "names": {
+                                "name": "WP_157815216.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_157815216.1",
+                                "locus_tag": "CWE01_RS33685"
+                            },
+                            "start": 125348,
+                            "end": 125560,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "100",
+                            "label": "WP_100941002.1",
+                            "names": {
+                                "name": "WP_100941002.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_100941002.1",
+                                "locus_tag": "CWE01_RS13375"
+                            },
+                            "start": 41355,
+                            "end": 49988,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "101",
+                            "label": "WP_100941022.1",
+                            "names": {
+                                "name": "WP_100941022.1",
+                                "description": "cytochrome P450",
+                                "id": "WP_100941022.1",
+                                "locus_tag": "CWE01_RS13475"
+                            },
+                            "start": 98270,
+                            "end": 99634,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "102",
+                            "label": "WP_177143935.1",
+                            "names": {
+                                "name": "WP_177143935.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_177143935.1",
+                                "locus_tag": "CWE01_RS13590"
+                            },
+                            "start": 125587,
+                            "end": 126093,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "103",
+                            "label": "WP_100941030.1",
+                            "names": {
+                                "name": "WP_100941030.1",
+                                "description": "alpha/beta fold hydrolase",
+                                "id": "WP_100941030.1",
+                                "locus_tag": "CWE01_RS13515"
+                            },
+                            "start": 107623,
+                            "end": 109608,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "104",
+                            "label": "WP_100941007.1",
+                            "names": {
+                                "name": "WP_100941007.1",
+                                "description": "NADH:flavin oxidoreductase/NADH oxidase family protein",
+                                "id": "WP_100941007.1",
+                                "locus_tag": "CWE01_RS13400"
+                            },
+                            "start": 80240,
+                            "end": 81544,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 25526,
+                    "end": 131870
+                }
+            ]
+        },
+        {
+            "uid": "105",
+            "name": "GCF_024207115.1",
+            "loci": [
+                {
+                    "uid": "106",
+                    "name": "NZ_CP100128.1",
+                    "genes": [
+                        {
+                            "uid": "107",
+                            "label": "NKT35_RS10160",
+                            "names": {
+                                "name": "NKT35_RS10160",
+                                "description": "pseudo_NADH:flavin oxidoreductase/NADH oxidase family protein",
+                                "id": "NKT35_RS10160",
+                                "locus_tag": "NKT35_RS10160"
+                            },
+                            "start": 2210410,
+                            "end": 2211575,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "108",
+                            "label": "WP_254300966.1",
+                            "names": {
+                                "name": "WP_254300966.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254300966.1",
+                                "locus_tag": "NKT35_RS10120"
+                            },
+                            "start": 2168737,
+                            "end": 2169114,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "109",
+                            "label": "WP_254300994.1",
+                            "names": {
+                                "name": "WP_254300994.1",
+                                "description": "Rieske 2Fe-2S domain-containing protein",
+                                "id": "WP_254300994.1",
+                                "locus_tag": "NKT35_RS10270"
+                            },
+                            "start": 2235680,
+                            "end": 2236039,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "110",
+                            "label": "WP_254300982.1",
+                            "names": {
+                                "name": "WP_254300982.1",
+                                "description": "polyketide synthase",
+                                "id": "WP_254300982.1",
+                                "locus_tag": "NKT35_RS10210"
+                            },
+                            "start": 2218818,
+                            "end": 2219552,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "111",
+                            "label": "WP_254301004.1",
+                            "names": {
+                                "name": "WP_254301004.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254301004.1",
+                                "locus_tag": "NKT35_RS10335"
+                            },
+                            "start": 2249739,
+                            "end": 2250470,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "112",
+                            "label": "WP_254301000.1",
+                            "names": {
+                                "name": "WP_254301000.1",
+                                "description": "autoinducer binding domain-containing protein",
+                                "id": "WP_254301000.1",
+                                "locus_tag": "NKT35_RS10305"
+                            },
+                            "start": 2244169,
+                            "end": 2245047,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "113",
+                            "label": "WP_254300961.1",
+                            "names": {
+                                "name": "WP_254300961.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254300961.1",
+                                "locus_tag": "NKT35_RS10090"
+                            },
+                            "start": 2163510,
+                            "end": 2163962,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "114",
+                            "label": "WP_254300990.1",
+                            "names": {
+                                "name": "WP_254300990.1",
+                                "description": "SDR family oxidoreductase",
+                                "id": "WP_254300990.1",
+                                "locus_tag": "NKT35_RS10250"
+                            },
+                            "start": 2231939,
+                            "end": 2232691,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "115",
+                            "label": "WP_254301001.1",
+                            "names": {
+                                "name": "WP_254301001.1",
+                                "description": "amidase family protein",
+                                "id": "WP_254301001.1",
+                                "locus_tag": "NKT35_RS10310"
+                            },
+                            "start": 2245081,
+                            "end": 2246595,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "116",
+                            "label": "WP_254300967.1",
+                            "names": {
+                                "name": "WP_254300967.1",
+                                "description": "LLM class flavin-dependent oxidoreductase",
+                                "id": "WP_254300967.1",
+                                "locus_tag": "NKT35_RS10125"
+                            },
+                            "start": 2169148,
+                            "end": 2170254,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "117",
+                            "label": "WP_254300984.1",
+                            "names": {
+                                "name": "WP_254300984.1",
+                                "description": "alpha/beta fold hydrolase",
+                                "id": "WP_254300984.1",
+                                "locus_tag": "NKT35_RS10220"
+                            },
+                            "start": 2223211,
+                            "end": 2224065,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "118",
+                            "label": "WP_254301006.1",
+                            "names": {
+                                "name": "WP_254301006.1",
+                                "description": "nucleotide sugar dehydrogenase",
+                                "id": "WP_254301006.1",
+                                "locus_tag": "NKT35_RS10350"
+                            },
+                            "start": 2252600,
+                            "end": 2253904,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "119",
+                            "label": "WP_254300986.1",
+                            "names": {
+                                "name": "WP_254300986.1",
+                                "description": "4'-phosphopantetheinyl transferase superfamily protein",
+                                "id": "WP_254300986.1",
+                                "locus_tag": "NKT35_RS10230"
+                            },
+                            "start": 2227363,
+                            "end": 2228214,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "120",
+                            "label": "WP_254300969.1",
+                            "names": {
+                                "name": "WP_254300969.1",
+                                "description": "phosphopantetheine-binding protein",
+                                "id": "WP_254300969.1",
+                                "locus_tag": "NKT35_RS10135"
+                            },
+                            "start": 2176166,
+                            "end": 2179501,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "121",
+                            "label": "WP_254300989.1",
+                            "names": {
+                                "name": "WP_254300989.1",
+                                "description": "AMP-binding protein",
+                                "id": "WP_254300989.1",
+                                "locus_tag": "NKT35_RS10245"
+                            },
+                            "start": 2230587,
+                            "end": 2231942,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "122",
+                            "label": "WP_254300997.1",
+                            "names": {
+                                "name": "WP_254300997.1",
+                                "description": "Rieske 2Fe-2S domain-containing protein",
+                                "id": "WP_254300997.1",
+                                "locus_tag": "NKT35_RS10285"
+                            },
+                            "start": 2239727,
+                            "end": 2241106,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "123",
+                            "label": "WP_254300968.1",
+                            "names": {
+                                "name": "WP_254300968.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_254300968.1",
+                                "locus_tag": "NKT35_RS10130"
+                            },
+                            "start": 2170260,
+                            "end": 2176220,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "124",
+                            "label": "WP_254301014.1",
+                            "names": {
+                                "name": "WP_254301014.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254301014.1",
+                                "locus_tag": "NKT35_RS10395"
+                            },
+                            "start": 2261496,
+                            "end": 2261924,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "125",
+                            "label": "WP_254300987.1",
+                            "names": {
+                                "name": "WP_254300987.1",
+                                "description": "cytochrome P450",
+                                "id": "WP_254300987.1",
+                                "locus_tag": "NKT35_RS10235"
+                            },
+                            "start": 2228276,
+                            "end": 2229643,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "126",
+                            "label": "WP_254301013.1",
+                            "names": {
+                                "name": "WP_254301013.1",
+                                "description": "glycosyltransferase",
+                                "id": "WP_254301013.1",
+                                "locus_tag": "NKT35_RS10390"
+                            },
+                            "start": 2260390,
+                            "end": 2261499,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "127",
+                            "label": "WP_254300948.1",
+                            "names": {
+                                "name": "WP_254300948.1",
+                                "description": "adenylosuccinate synthase",
+                                "id": "WP_254300948.1",
+                                "locus_tag": "NKT35_RS10035"
+                            },
+                            "start": 2153016,
+                            "end": 2154305,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "128",
+                            "label": "WP_254300971.1",
+                            "names": {
+                                "name": "WP_254300971.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_254300971.1",
+                                "locus_tag": "NKT35_RS10145"
+                            },
+                            "start": 2180569,
+                            "end": 2186766,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "129",
+                            "label": "WP_254300992.1",
+                            "names": {
+                                "name": "WP_254300992.1",
+                                "description": "polyketide synthase",
+                                "id": "WP_254300992.1",
+                                "locus_tag": "NKT35_RS10260"
+                            },
+                            "start": 2233024,
+                            "end": 2235285,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "130",
+                            "label": "WP_254300956.1",
+                            "names": {
+                                "name": "WP_254300956.1",
+                                "description": "AzlC family ABC transporter permease",
+                                "id": "WP_254300956.1",
+                                "locus_tag": "NKT35_RS10065"
+                            },
+                            "start": 2159265,
+                            "end": 2159978,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "131",
+                            "label": "WP_256493444.1",
+                            "names": {
+                                "name": "WP_256493444.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_256493444.1",
+                                "locus_tag": "NKT35_RS10200"
+                            },
+                            "start": 2216722,
+                            "end": 2217990,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "132",
+                            "label": "WP_254300949.1",
+                            "names": {
+                                "name": "WP_254300949.1",
+                                "description": "transporter substrate-binding domain-containing protein",
+                                "id": "WP_254300949.1",
+                                "locus_tag": "NKT35_RS10040"
+                            },
+                            "start": 2154354,
+                            "end": 2155124,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "133",
+                            "label": "WP_254300978.1",
+                            "names": {
+                                "name": "WP_254300978.1",
+                                "description": "NAD-dependent epimerase/dehydratase family protein",
+                                "id": "WP_254300978.1",
+                                "locus_tag": "NKT35_RS10185"
+                            },
+                            "start": 2214062,
+                            "end": 2215027,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "134",
+                            "label": "WP_254301008.1",
+                            "names": {
+                                "name": "WP_254301008.1",
+                                "description": "N-acetyltransferase",
+                                "id": "WP_254301008.1",
+                                "locus_tag": "NKT35_RS10365"
+                            },
+                            "start": 2255667,
+                            "end": 2256245,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "135",
+                            "label": "WP_254300954.1",
+                            "names": {
+                                "name": "WP_254300954.1",
+                                "description": "2,5-didehydrogluconate reductase DkgB",
+                                "id": "WP_254300954.1",
+                                "locus_tag": "NKT35_RS10055"
+                            },
+                            "start": 2157414,
+                            "end": 2158217,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "136",
+                            "label": "WP_254300973.1",
+                            "names": {
+                                "name": "WP_254300973.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_254300973.1",
+                                "locus_tag": "NKT35_RS10155"
+                            },
+                            "start": 2190131,
+                            "end": 2210308,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "137",
+                            "label": "WP_254300964.1",
+                            "names": {
+                                "name": "WP_254300964.1",
+                                "description": "transposase",
+                                "id": "WP_254300964.1",
+                                "locus_tag": "NKT35_RS10105"
+                            },
+                            "start": 2166723,
+                            "end": 2167028,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "138",
+                            "label": "WP_254300970.1",
+                            "names": {
+                                "name": "WP_254300970.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254300970.1",
+                                "locus_tag": "NKT35_RS10140"
+                            },
+                            "start": 2179522,
+                            "end": 2180427,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "139",
+                            "label": "WP_254300991.1",
+                            "names": {
+                                "name": "WP_254300991.1",
+                                "description": "phosphopantetheine-binding protein",
+                                "id": "WP_254300991.1",
+                                "locus_tag": "NKT35_RS10255"
+                            },
+                            "start": 2232685,
+                            "end": 2233008,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "140",
+                            "label": "NKT35_RS10295",
+                            "names": {
+                                "name": "NKT35_RS10295",
+                                "description": "pseudo_IS1380 family transposase",
+                                "id": "NKT35_RS10295",
+                                "locus_tag": "NKT35_RS10295"
+                            },
+                            "start": 2242315,
+                            "end": 2242453,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "141",
+                            "label": "WP_254300975.1",
+                            "names": {
+                                "name": "WP_254300975.1",
+                                "description": "SDR family oxidoreductase",
+                                "id": "WP_254300975.1",
+                                "locus_tag": "NKT35_RS10170"
+                            },
+                            "start": 2211957,
+                            "end": 2212706,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "142",
+                            "label": "WP_254300959.1",
+                            "names": {
+                                "name": "WP_254300959.1",
+                                "description": "GyrI-like domain-containing protein",
+                                "id": "WP_254300959.1",
+                                "locus_tag": "NKT35_RS10080"
+                            },
+                            "start": 2160803,
+                            "end": 2161663,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "143",
+                            "label": "WP_254300972.1",
+                            "names": {
+                                "name": "WP_254300972.1",
+                                "description": "ACP S-malonyltransferase",
+                                "id": "WP_254300972.1",
+                                "locus_tag": "NKT35_RS10150"
+                            },
+                            "start": 2186827,
+                            "end": 2190090,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "144",
+                            "label": "WP_254301011.1",
+                            "names": {
+                                "name": "WP_254301011.1",
+                                "description": "acyltransferase",
+                                "id": "WP_254301011.1",
+                                "locus_tag": "NKT35_RS10380"
+                            },
+                            "start": 2258730,
+                            "end": 2259311,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "145",
+                            "label": "WP_254300953.1",
+                            "names": {
+                                "name": "WP_254300953.1",
+                                "description": "MFS transporter",
+                                "id": "WP_254300953.1",
+                                "locus_tag": "NKT35_RS10050"
+                            },
+                            "start": 2156167,
+                            "end": 2157360,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "146",
+                            "label": "WP_254300979.1",
+                            "names": {
+                                "name": "WP_254300979.1",
+                                "description": "acyl carrier protein",
+                                "id": "WP_254300979.1",
+                                "locus_tag": "NKT35_RS10190"
+                            },
+                            "start": 2215269,
+                            "end": 2215508,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "147",
+                            "label": "WP_254301015.1",
+                            "names": {
+                                "name": "WP_254301015.1",
+                                "description": "glycosyltransferase",
+                                "id": "WP_254301015.1",
+                                "locus_tag": "NKT35_RS10400"
+                            },
+                            "start": 2261926,
+                            "end": 2263155,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "148",
+                            "label": "WP_254300955.1",
+                            "names": {
+                                "name": "WP_254300955.1",
+                                "description": "AraC family ligand binding domain-containing protein",
+                                "id": "WP_254300955.1",
+                                "locus_tag": "NKT35_RS10060"
+                            },
+                            "start": 2158323,
+                            "end": 2159159,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "149",
+                            "label": "WP_256493445.1",
+                            "names": {
+                                "name": "WP_256493445.1",
+                                "description": "polyamine aminopropyltransferase",
+                                "id": "WP_256493445.1",
+                                "locus_tag": "NKT35_RS10345"
+                            },
+                            "start": 2251579,
+                            "end": 2252379,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "150",
+                            "label": "WP_254300965.1",
+                            "names": {
+                                "name": "WP_254300965.1",
+                                "description": "transposase",
+                                "id": "WP_254300965.1",
+                                "locus_tag": "NKT35_RS10110"
+                            },
+                            "start": 2167006,
+                            "end": 2167485,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "151",
+                            "label": "WP_254300995.1",
+                            "names": {
+                                "name": "WP_254300995.1",
+                                "description": "AMP-binding protein",
+                                "id": "WP_254300995.1",
+                                "locus_tag": "NKT35_RS10275"
+                            },
+                            "start": 2236061,
+                            "end": 2237653,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "152",
+                            "label": "WP_254301012.1",
+                            "names": {
+                                "name": "WP_254301012.1",
+                                "description": "glycosyltransferase",
+                                "id": "WP_254301012.1",
+                                "locus_tag": "NKT35_RS10385"
+                            },
+                            "start": 2259304,
+                            "end": 2260386,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "153",
+                            "label": "WP_254300981.1",
+                            "names": {
+                                "name": "WP_254300981.1",
+                                "description": "enoyl-CoA hydratase/isomerase",
+                                "id": "WP_254300981.1",
+                                "locus_tag": "NKT35_RS10205"
+                            },
+                            "start": 2217987,
+                            "end": 2218754,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "154",
+                            "label": "WP_254301436.1",
+                            "names": {
+                                "name": "WP_254301436.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254301436.1",
+                                "locus_tag": "NKT35_RS10115"
+                            },
+                            "start": 2168106,
+                            "end": 2168258,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "155",
+                            "label": "WP_254300980.1",
+                            "names": {
+                                "name": "WP_254300980.1",
+                                "description": "polyketide beta-ketoacyl:ACP synthase",
+                                "id": "WP_254300980.1",
+                                "locus_tag": "NKT35_RS10195"
+                            },
+                            "start": 2215474,
+                            "end": 2216706,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "156",
+                            "label": "WP_254301370.1",
+                            "names": {
+                                "name": "WP_254301370.1",
+                                "description": "Gfo/Idh/MocA family oxidoreductase",
+                                "id": "WP_254301370.1",
+                                "locus_tag": "NKT35_RS10355"
+                            },
+                            "start": 2254006,
+                            "end": 2255061,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "157",
+                            "label": "WP_254300988.1",
+                            "names": {
+                                "name": "WP_254300988.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254300988.1",
+                                "locus_tag": "NKT35_RS10240"
+                            },
+                            "start": 2229679,
+                            "end": 2230596,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "158",
+                            "label": "WP_254301016.1",
+                            "names": {
+                                "name": "WP_254301016.1",
+                                "description": "aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme",
+                                "id": "WP_254301016.1",
+                                "locus_tag": "NKT35_RS10405"
+                            },
+                            "start": 2263578,
+                            "end": 2264741,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "159",
+                            "label": "WP_254300962.1",
+                            "names": {
+                                "name": "WP_254300962.1",
+                                "description": "RICIN domain-containing protein",
+                                "id": "WP_254300962.1",
+                                "locus_tag": "NKT35_RS10095"
+                            },
+                            "start": 2164027,
+                            "end": 2164482,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "160",
+                            "label": "WP_254301003.1",
+                            "names": {
+                                "name": "WP_254301003.1",
+                                "description": "pteridine reductase",
+                                "id": "WP_254301003.1",
+                                "locus_tag": "NKT35_RS10330"
+                            },
+                            "start": 2248963,
+                            "end": 2249721,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "161",
+                            "label": "WP_254301002.1",
+                            "names": {
+                                "name": "WP_254301002.1",
+                                "description": "SAM-dependent methyltransferase",
+                                "id": "WP_254301002.1",
+                                "locus_tag": "NKT35_RS10325"
+                            },
+                            "start": 2247720,
+                            "end": 2248877,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "162",
+                            "label": "WP_254301007.1",
+                            "names": {
+                                "name": "WP_254301007.1",
+                                "description": "DUF4337 family protein",
+                                "id": "WP_254301007.1",
+                                "locus_tag": "NKT35_RS10360"
+                            },
+                            "start": 2255116,
+                            "end": 2255652,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "163",
+                            "label": "WP_254300993.1",
+                            "names": {
+                                "name": "WP_254300993.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254300993.1",
+                                "locus_tag": "NKT35_RS10265"
+                            },
+                            "start": 2235416,
+                            "end": 2235667,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "164",
+                            "label": "WP_254300977.1",
+                            "names": {
+                                "name": "WP_254300977.1",
+                                "description": "phosphopantetheine-binding protein",
+                                "id": "WP_254300977.1",
+                                "locus_tag": "NKT35_RS10180"
+                            },
+                            "start": 2213801,
+                            "end": 2214052,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "165",
+                            "label": "WP_254300963.1",
+                            "names": {
+                                "name": "WP_254300963.1",
+                                "description": "acyl-CoA dehydrogenase family protein",
+                                "id": "WP_254300963.1",
+                                "locus_tag": "NKT35_RS10100"
+                            },
+                            "start": 2164900,
+                            "end": 2166540,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "166",
+                            "label": "WP_254301005.1",
+                            "names": {
+                                "name": "WP_254301005.1",
+                                "description": "tRNA 2-thiocytidine(32) synthetase TtcA",
+                                "id": "WP_254301005.1",
+                                "locus_tag": "NKT35_RS10340"
+                            },
+                            "start": 2250624,
+                            "end": 2251589,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "167",
+                            "label": "WP_254300999.1",
+                            "names": {
+                                "name": "WP_254300999.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_254300999.1",
+                                "locus_tag": "NKT35_RS10300"
+                            },
+                            "start": 2242661,
+                            "end": 2242816,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "168",
+                            "label": "WP_254301009.1",
+                            "names": {
+                                "name": "WP_254301009.1",
+                                "description": "aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme",
+                                "id": "WP_254301009.1",
+                                "locus_tag": "NKT35_RS10370"
+                            },
+                            "start": 2256359,
+                            "end": 2257456,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "169",
+                            "label": "WP_254301010.1",
+                            "names": {
+                                "name": "WP_254301010.1",
+                                "description": "oligosaccharide flippase family protein",
+                                "id": "WP_254301010.1",
+                                "locus_tag": "NKT35_RS10375"
+                            },
+                            "start": 2257462,
+                            "end": 2258733,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "170",
+                            "label": "WP_254300946.1",
+                            "names": {
+                                "name": "WP_254300946.1",
+                                "description": "transcriptional regulator GcvA",
+                                "id": "WP_254300946.1",
+                                "locus_tag": "NKT35_RS10030"
+                            },
+                            "start": 2152024,
+                            "end": 2152902,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "171",
+                            "label": "WP_254300974.1",
+                            "names": {
+                                "name": "WP_254300974.1",
+                                "description": "acyl carrier protein",
+                                "id": "WP_254300974.1",
+                                "locus_tag": "NKT35_RS10165"
+                            },
+                            "start": 2211644,
+                            "end": 2211925,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "172",
+                            "label": "WP_254300996.1",
+                            "names": {
+                                "name": "WP_254300996.1",
+                                "description": "alpha/beta fold hydrolase",
+                                "id": "WP_254300996.1",
+                                "locus_tag": "NKT35_RS10280"
+                            },
+                            "start": 2237670,
+                            "end": 2239730,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "173",
+                            "label": "WP_254300960.1",
+                            "names": {
+                                "name": "WP_254300960.1",
+                                "description": "enoyl-CoA hydratase-related protein",
+                                "id": "WP_254300960.1",
+                                "locus_tag": "NKT35_RS10085"
+                            },
+                            "start": 2161796,
+                            "end": 2163484,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "174",
+                            "label": "WP_254300957.1",
+                            "names": {
+                                "name": "WP_254300957.1",
+                                "description": "AzlD domain-containing protein",
+                                "id": "WP_254300957.1",
+                                "locus_tag": "NKT35_RS10070"
+                            },
+                            "start": 2159975,
+                            "end": 2160286,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "175",
+                            "label": "WP_254300985.1",
+                            "names": {
+                                "name": "WP_254300985.1",
+                                "description": "isoleucine--tRNA ligase",
+                                "id": "WP_254300985.1",
+                                "locus_tag": "NKT35_RS10225"
+                            },
+                            "start": 2224215,
+                            "end": 2227313,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "176",
+                            "label": "WP_254300951.1",
+                            "names": {
+                                "name": "WP_254300951.1",
+                                "description": "LysR substrate-binding domain-containing protein",
+                                "id": "WP_254300951.1",
+                                "locus_tag": "NKT35_RS10045"
+                            },
+                            "start": 2155193,
+                            "end": 2156068,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "177",
+                            "label": "WP_254300945.1",
+                            "names": {
+                                "name": "WP_254300945.1",
+                                "description": "3-hydroxybutyrate dehydrogenase",
+                                "id": "WP_254300945.1",
+                                "locus_tag": "NKT35_RS10025"
+                            },
+                            "start": 2151071,
+                            "end": 2151853,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "178",
+                            "label": "WP_254300998.1",
+                            "names": {
+                                "name": "WP_254300998.1",
+                                "description": "GNAT family N-acetyltransferase",
+                                "id": "WP_254300998.1",
+                                "locus_tag": "NKT35_RS10290"
+                            },
+                            "start": 2241071,
+                            "end": 2241835,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "179",
+                            "label": "WP_254300958.1",
+                            "names": {
+                                "name": "WP_254300958.1",
+                                "description": "FKBP-type peptidyl-prolyl cis-trans isomerase",
+                                "id": "WP_254300958.1",
+                                "locus_tag": "NKT35_RS10075"
+                            },
+                            "start": 2160345,
+                            "end": 2160686,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "180",
+                            "label": "WP_254300983.1",
+                            "names": {
+                                "name": "WP_254300983.1",
+                                "description": "FAD-dependent monooxygenase",
+                                "id": "WP_254300983.1",
+                                "locus_tag": "NKT35_RS10215"
+                            },
+                            "start": 2219570,
+                            "end": 2223214,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "181",
+                            "label": "WP_254300976.1",
+                            "names": {
+                                "name": "WP_254300976.1",
+                                "description": "zinc-binding dehydrogenase",
+                                "id": "WP_254300976.1",
+                                "locus_tag": "NKT35_RS10175"
+                            },
+                            "start": 2212720,
+                            "end": 2213751,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 2151071,
+                    "end": 2264741
+                }
+            ]
+        }
+    ],
+    "links": [
+        {
+            "uid": "182",
+            "target": {
+                "uid": "83",
+                "name": "83"
+            },
+            "query": {
+                "uid": "9",
+                "name": "9"
+            },
+            "identity": 0.759
+        },
+        {
+            "uid": "183",
+            "target": {
+                "uid": "52",
+                "name": "52"
+            },
+            "query": {
+                "uid": "10",
+                "name": "10"
+            },
+            "identity": 0.807
+        },
+        {
+            "uid": "184",
+            "target": {
+                "uid": "100",
+                "name": "100"
+            },
+            "query": {
+                "uid": "7",
+                "name": "7"
+            },
+            "identity": 0.657
+        },
+        {
+            "uid": "185",
+            "target": {
+                "uid": "82",
+                "name": "82"
+            },
+            "query": {
+                "uid": "29",
+                "name": "29"
+            },
+            "identity": 0.6809999999999999
+        },
+        {
+            "uid": "186",
+            "target": {
+                "uid": "70",
+                "name": "70"
+            },
+            "query": {
+                "uid": "18",
+                "name": "18"
+            },
+            "identity": 0.5870000000000001
+        },
+        {
+            "uid": "187",
+            "target": {
+                "uid": "46",
+                "name": "46"
+            },
+            "query": {
+                "uid": "38",
+                "name": "38"
+            },
+            "identity": 0.741
+        },
+        {
+            "uid": "188",
+            "target": {
+                "uid": "57",
+                "name": "57"
+            },
+            "query": {
+                "uid": "37",
+                "name": "37"
+            },
+            "identity": 0.634
+        },
+        {
+            "uid": "189",
+            "target": {
+                "uid": "104",
+                "name": "104"
+            },
+            "query": {
+                "uid": "31",
+                "name": "31"
+            },
+            "identity": 0.8029999999999999
+        },
+        {
+            "uid": "190",
+            "target": {
+                "uid": "50",
+                "name": "50"
+            },
+            "query": {
+                "uid": "33",
+                "name": "33"
+            },
+            "identity": 0.78
+        },
+        {
+            "uid": "191",
+            "target": {
+                "uid": "78",
+                "name": "78"
+            },
+            "query": {
+                "uid": "12",
+                "name": "12"
+            },
+            "identity": 0.685
+        },
+        {
+            "uid": "192",
+            "target": {
+                "uid": "77",
+                "name": "77"
+            },
+            "query": {
+                "uid": "13",
+                "name": "13"
+            },
+            "identity": 0.8290000000000001
+        },
+        {
+            "uid": "193",
+            "target": {
+                "uid": "74",
+                "name": "74"
+            },
+            "query": {
+                "uid": "22",
+                "name": "22"
+            },
+            "identity": 0.7290000000000001
+        },
+        {
+            "uid": "194",
+            "target": {
+                "uid": "66",
+                "name": "66"
+            },
+            "query": {
+                "uid": "14",
+                "name": "14"
+            },
+            "identity": 0.7170000000000001
+        },
+        {
+            "uid": "195",
+            "target": {
+                "uid": "89",
+                "name": "89"
+            },
+            "query": {
+                "uid": "8",
+                "name": "8"
+            },
+            "identity": 0.684
+        },
+        {
+            "uid": "196",
+            "target": {
+                "uid": "67",
+                "name": "67"
+            },
+            "query": {
+                "uid": "4",
+                "name": "4"
+            },
+            "identity": 0.8109999999999999
+        },
+        {
+            "uid": "197",
+            "target": {
+                "uid": "75",
+                "name": "75"
+            },
+            "query": {
+                "uid": "5",
+                "name": "5"
+            },
+            "identity": 0.884
+        },
+        {
+            "uid": "198",
+            "target": {
+                "uid": "63",
+                "name": "63"
+            },
+            "query": {
+                "uid": "36",
+                "name": "36"
+            },
+            "identity": 0.792
+        },
+        {
+            "uid": "199",
+            "target": {
+                "uid": "56",
+                "name": "56"
+            },
+            "query": {
+                "uid": "35",
+                "name": "35"
+            },
+            "identity": 0.847
+        },
+        {
+            "uid": "200",
+            "target": {
+                "uid": "45",
+                "name": "45"
+            },
+            "query": {
+                "uid": "21",
+                "name": "21"
+            },
+            "identity": 0.667
+        },
+        {
+            "uid": "201",
+            "target": {
+                "uid": "64",
+                "name": "64"
+            },
+            "query": {
+                "uid": "3",
+                "name": "3"
+            },
+            "identity": 0.718
+        },
+        {
+            "uid": "202",
+            "target": {
+                "uid": "94",
+                "name": "94"
+            },
+            "query": {
+                "uid": "24",
+                "name": "24"
+            },
+            "identity": 0.888
+        },
+        {
+            "uid": "203",
+            "target": {
+                "uid": "72",
+                "name": "72"
+            },
+            "query": {
+                "uid": "15",
+                "name": "15"
+            },
+            "identity": 0.5589999999999999
+        },
+        {
+            "uid": "204",
+            "target": {
+                "uid": "101",
+                "name": "101"
+            },
+            "query": {
+                "uid": "17",
+                "name": "17"
+            },
+            "identity": 0.84
+        },
+        {
+            "uid": "205",
+            "target": {
+                "uid": "95",
+                "name": "95"
+            },
+            "query": {
+                "uid": "27",
+                "name": "27"
+            },
+            "identity": 0.597
+        },
+        {
+            "uid": "206",
+            "target": {
+                "uid": "90",
+                "name": "90"
+            },
+            "query": {
+                "uid": "16",
+                "name": "16"
+            },
+            "identity": 0.738
+        },
+        {
+            "uid": "207",
+            "target": {
+                "uid": "98",
+                "name": "98"
+            },
+            "query": {
+                "uid": "20",
+                "name": "20"
+            },
+            "identity": 0.802
+        },
+        {
+            "uid": "208",
+            "target": {
+                "uid": "44",
+                "name": "44"
+            },
+            "query": {
+                "uid": "32",
+                "name": "32"
+            },
+            "identity": 0.615
+        },
+        {
+            "uid": "209",
+            "target": {
+                "uid": "60",
+                "name": "60"
+            },
+            "query": {
+                "uid": "34",
+                "name": "34"
+            },
+            "identity": 0.637
+        },
+        {
+            "uid": "210",
+            "target": {
+                "uid": "68",
+                "name": "68"
+            },
+            "query": {
+                "uid": "19",
+                "name": "19"
+            },
+            "identity": 0.738
+        },
+        {
+            "uid": "211",
+            "target": {
+                "uid": "88",
+                "name": "88"
+            },
+            "query": {
+                "uid": "25",
+                "name": "25"
+            },
+            "identity": 0.644
+        },
+        {
+            "uid": "212",
+            "target": {
+                "uid": "53",
+                "name": "53"
+            },
+            "query": {
+                "uid": "30",
+                "name": "30"
+            },
+            "identity": 0.6779999999999999
+        },
+        {
+            "uid": "213",
+            "target": {
+                "uid": "103",
+                "name": "103"
+            },
+            "query": {
+                "uid": "23",
+                "name": "23"
+            },
+            "identity": 0.785
+        },
+        {
+            "uid": "214",
+            "target": {
+                "uid": "49",
+                "name": "49"
+            },
+            "query": {
+                "uid": "26",
+                "name": "26"
+            },
+            "identity": 0.789
+        },
+        {
+            "uid": "215",
+            "target": {
+                "uid": "65",
+                "name": "65"
+            },
+            "query": {
+                "uid": "6",
+                "name": "6"
+            },
+            "identity": 0.6970000000000001
+        },
+        {
+            "uid": "216",
+            "target": {
+                "uid": "42",
+                "name": "42"
+            },
+            "query": {
+                "uid": "11",
+                "name": "11"
+            },
+            "identity": 0.747
+        },
+        {
+            "uid": "217",
+            "target": {
+                "uid": "58",
+                "name": "58"
+            },
+            "query": {
+                "uid": "28",
+                "name": "28"
+            },
+            "identity": 0.759
+        },
+        {
+            "uid": "218",
+            "target": {
+                "uid": "108",
+                "name": "108"
+            },
+            "query": {
+                "uid": "9",
+                "name": "9"
+            },
+            "identity": 0.6609999999999999
+        },
+        {
+            "uid": "219",
+            "target": {
+                "uid": "116",
+                "name": "116"
+            },
+            "query": {
+                "uid": "10",
+                "name": "10"
+            },
+            "identity": 0.674
+        },
+        {
+            "uid": "220",
+            "target": {
+                "uid": "123",
+                "name": "123"
+            },
+            "query": {
+                "uid": "7",
+                "name": "7"
+            },
+            "identity": 0.519
+        },
+        {
+            "uid": "221",
+            "target": {
+                "uid": "138",
+                "name": "138"
+            },
+            "query": {
+                "uid": "29",
+                "name": "29"
+            },
+            "identity": 0.495
+        },
+        {
+            "uid": "222",
+            "target": {
+                "uid": "128",
+                "name": "128"
+            },
+            "query": {
+                "uid": "18",
+                "name": "18"
+            },
+            "identity": 0.441
+        },
+        {
+            "uid": "223",
+            "target": {
+                "uid": "143",
+                "name": "143"
+            },
+            "query": {
+                "uid": "38",
+                "name": "38"
+            },
+            "identity": 0.637
+        },
+        {
+            "uid": "224",
+            "target": {
+                "uid": "136",
+                "name": "136"
+            },
+            "query": {
+                "uid": "37",
+                "name": "37"
+            },
+            "identity": 0.486
+        },
+        {
+            "uid": "225",
+            "target": {
+                "uid": "107",
+                "name": "107"
+            },
+            "query": {
+                "uid": "31",
+                "name": "31"
+            },
+            "identity": 0.71
+        },
+        {
+            "uid": "226",
+            "target": {
+                "uid": "171",
+                "name": "171"
+            },
+            "query": {
+                "uid": "33",
+                "name": "33"
+            },
+            "identity": 0.611
+        },
+        {
+            "uid": "227",
+            "target": {
+                "uid": "141",
+                "name": "141"
+            },
+            "query": {
+                "uid": "12",
+                "name": "12"
+            },
+            "identity": 0.583
+        },
+        {
+            "uid": "228",
+            "target": {
+                "uid": "181",
+                "name": "181"
+            },
+            "query": {
+                "uid": "13",
+                "name": "13"
+            },
+            "identity": 0.6970000000000001
+        },
+        {
+            "uid": "229",
+            "target": {
+                "uid": "164",
+                "name": "164"
+            },
+            "query": {
+                "uid": "22",
+                "name": "22"
+            },
+            "identity": 0.42700000000000005
+        },
+        {
+            "uid": "230",
+            "target": {
+                "uid": "133",
+                "name": "133"
+            },
+            "query": {
+                "uid": "14",
+                "name": "14"
+            },
+            "identity": 0.5539999999999999
+        },
+        {
+            "uid": "231",
+            "target": {
+                "uid": "146",
+                "name": "146"
+            },
+            "query": {
+                "uid": "8",
+                "name": "8"
+            },
+            "identity": 0.62
+        },
+        {
+            "uid": "232",
+            "target": {
+                "uid": "155",
+                "name": "155"
+            },
+            "query": {
+                "uid": "4",
+                "name": "4"
+            },
+            "identity": 0.618
+        },
+        {
+            "uid": "233",
+            "target": {
+                "uid": "131",
+                "name": "131"
+            },
+            "query": {
+                "uid": "5",
+                "name": "5"
+            },
+            "identity": 0.7490000000000001
+        },
+        {
+            "uid": "234",
+            "target": {
+                "uid": "153",
+                "name": "153"
+            },
+            "query": {
+                "uid": "36",
+                "name": "36"
+            },
+            "identity": 0.636
+        },
+        {
+            "uid": "235",
+            "target": {
+                "uid": "110",
+                "name": "110"
+            },
+            "query": {
+                "uid": "35",
+                "name": "35"
+            },
+            "identity": 0.74
+        },
+        {
+            "uid": "236",
+            "target": {
+                "uid": "180",
+                "name": "180"
+            },
+            "query": {
+                "uid": "21",
+                "name": "21"
+            },
+            "identity": 0.504
+        },
+        {
+            "uid": "237",
+            "target": {
+                "uid": "117",
+                "name": "117"
+            },
+            "query": {
+                "uid": "3",
+                "name": "3"
+            },
+            "identity": 0.599
+        },
+        {
+            "uid": "238",
+            "target": {
+                "uid": "175",
+                "name": "175"
+            },
+            "query": {
+                "uid": "24",
+                "name": "24"
+            },
+            "identity": 0.742
+        },
+        {
+            "uid": "239",
+            "target": {
+                "uid": "119",
+                "name": "119"
+            },
+            "query": {
+                "uid": "15",
+                "name": "15"
+            },
+            "identity": 0.483
+        },
+        {
+            "uid": "240",
+            "target": {
+                "uid": "125",
+                "name": "125"
+            },
+            "query": {
+                "uid": "17",
+                "name": "17"
+            },
+            "identity": 0.664
+        },
+        {
+            "uid": "241",
+            "target": {
+                "uid": "157",
+                "name": "157"
+            },
+            "query": {
+                "uid": "27",
+                "name": "27"
+            },
+            "identity": 0.441
+        },
+        {
+            "uid": "242",
+            "target": {
+                "uid": "121",
+                "name": "121"
+            },
+            "query": {
+                "uid": "16",
+                "name": "16"
+            },
+            "identity": 0.5720000000000001
+        },
+        {
+            "uid": "243",
+            "target": {
+                "uid": "114",
+                "name": "114"
+            },
+            "query": {
+                "uid": "20",
+                "name": "20"
+            },
+            "identity": 0.6709999999999999
+        },
+        {
+            "uid": "244",
+            "target": {
+                "uid": "139",
+                "name": "139"
+            },
+            "query": {
+                "uid": "32",
+                "name": "32"
+            },
+            "identity": 0.457
+        },
+        {
+            "uid": "245",
+            "target": {
+                "uid": "129",
+                "name": "129"
+            },
+            "query": {
+                "uid": "34",
+                "name": "34"
+            },
+            "identity": 0.519
+        },
+        {
+            "uid": "246",
+            "target": {
+                "uid": "163",
+                "name": "163"
+            },
+            "query": {
+                "uid": "19",
+                "name": "19"
+            },
+            "identity": 0.5
+        },
+        {
+            "uid": "247",
+            "target": {
+                "uid": "109",
+                "name": "109"
+            },
+            "query": {
+                "uid": "25",
+                "name": "25"
+            },
+            "identity": 0.469
+        },
+        {
+            "uid": "248",
+            "target": {
+                "uid": "151",
+                "name": "151"
+            },
+            "query": {
+                "uid": "30",
+                "name": "30"
+            },
+            "identity": 0.564
+        },
+        {
+            "uid": "249",
+            "target": {
+                "uid": "172",
+                "name": "172"
+            },
+            "query": {
+                "uid": "23",
+                "name": "23"
+            },
+            "identity": 0.5870000000000001
+        },
+        {
+            "uid": "250",
+            "target": {
+                "uid": "122",
+                "name": "122"
+            },
+            "query": {
+                "uid": "26",
+                "name": "26"
+            },
+            "identity": 0.7
+        },
+        {
+            "uid": "251",
+            "target": {
+                "uid": "178",
+                "name": "178"
+            },
+            "query": {
+                "uid": "28",
+                "name": "28"
+            },
+            "identity": 0.431
+        },
+        {
+            "uid": "252",
+            "target": {
+                "uid": "112",
+                "name": "112"
+            },
+            "query": {
+                "uid": "6",
+                "name": "6"
+            },
+            "identity": 0.44799999999999995
+        },
+        {
+            "uid": "253",
+            "target": {
+                "uid": "115",
+                "name": "115"
+            },
+            "query": {
+                "uid": "11",
+                "name": "11"
+            },
+            "identity": 0.622
+        }
+    ],
+    "groups": [
+        {
+            "uid": "254",
+            "label": "AFD33556.1 MupZ",
+            "genes": [
+                "9"
+            ]
+        },
+        {
+            "uid": "255",
+            "label": "AAK28503.1 MupA",
+            "genes": [
+                "10"
+            ]
+        },
+        {
+            "uid": "256",
+            "label": "AAM12909.2 MmpA",
+            "genes": [
+                "7"
+            ]
+        },
+        {
+            "uid": "257",
+            "label": "AAM12910.1 MupB",
+            "genes": [
+                "29"
+            ]
+        },
+        {
+            "uid": "258",
+            "label": "AAM12911.1 MmpB",
+            "genes": [
+                "18"
+            ]
+        },
+        {
+            "uid": "259",
+            "label": "AAM12912.1 MmpC",
+            "genes": [
+                "38"
+            ]
+        },
+        {
+            "uid": "260",
+            "label": "AAM12913.2 MmpD",
+            "genes": [
+                "37"
+            ]
+        },
+        {
+            "uid": "261",
+            "label": "AAM12914.1 MupC",
+            "genes": [
+                "31"
+            ]
+        },
+        {
+            "uid": "262",
+            "label": "AAM12915.1 MacpA",
+            "genes": [
+                "33"
+            ]
+        },
+        {
+            "uid": "263",
+            "label": "AAM12916.1 MupD",
+            "genes": [
+                "12"
+            ]
+        },
+        {
+            "uid": "264",
+            "label": "AAM12917.1 MupE",
+            "genes": [
+                "13"
+            ]
+        },
+        {
+            "uid": "265",
+            "label": "AAM12918.1 MacpB",
+            "genes": [
+                "22"
+            ]
+        },
+        {
+            "uid": "266",
+            "label": "AAM12919.1 MupF",
+            "genes": [
+                "14"
+            ]
+        },
+        {
+            "uid": "267",
+            "label": "AAM12920.1 MacpC",
+            "genes": [
+                "8"
+            ]
+        },
+        {
+            "uid": "268",
+            "label": "AAM12921.1 MupG",
+            "genes": [
+                "4"
+            ]
+        },
+        {
+            "uid": "269",
+            "label": "AAM12922.1 MupH",
+            "genes": [
+                "5"
+            ]
+        },
+        {
+            "uid": "270",
+            "label": "AAM12923.1 MupJ",
+            "genes": [
+                "36"
+            ]
+        },
+        {
+            "uid": "271",
+            "label": "AAM12924.1 MupK",
+            "genes": [
+                "35"
+            ]
+        },
+        {
+            "uid": "272",
+            "label": "AAM12925.2 MmpE",
+            "genes": [
+                "21"
+            ]
+        },
+        {
+            "uid": "273",
+            "label": "AAM12926.1 MupL",
+            "genes": [
+                "3"
+            ]
+        },
+        {
+            "uid": "274",
+            "label": "AAM12927.2 MupM",
+            "genes": [
+                "24"
+            ]
+        },
+        {
+            "uid": "275",
+            "label": "AAM12928.2 MupN",
+            "genes": [
+                "15"
+            ]
+        },
+        {
+            "uid": "276",
+            "label": "AAM12929.2 MupO",
+            "genes": [
+                "17"
+            ]
+        },
+        {
+            "uid": "277",
+            "label": "AAM12930.2 MupP",
+            "genes": [
+                "27"
+            ]
+        },
+        {
+            "uid": "278",
+            "label": "AAM12931.1 MupQ",
+            "genes": [
+                "16"
+            ]
+        },
+        {
+            "uid": "279",
+            "label": "AAM12932.1 MupS",
+            "genes": [
+                "20"
+            ]
+        },
+        {
+            "uid": "280",
+            "label": "AAM12933.1 MacpD",
+            "genes": [
+                "32"
+            ]
+        },
+        {
+            "uid": "281",
+            "label": "AAM12934.1 MmpF",
+            "genes": [
+                "34"
+            ]
+        },
+        {
+            "uid": "282",
+            "label": "AAM12935.1 MacpE",
+            "genes": [
+                "19"
+            ]
+        },
+        {
+            "uid": "283",
+            "label": "AAM12936.1 MupT",
+            "genes": [
+                "25"
+            ]
+        },
+        {
+            "uid": "284",
+            "label": "AAM12937.1 MupU",
+            "genes": [
+                "30"
+            ]
+        },
+        {
+            "uid": "285",
+            "label": "AAM12938.1 MupV",
+            "genes": [
+                "23"
+            ]
+        },
+        {
+            "uid": "286",
+            "label": "AAM12939.1 MupW",
+            "genes": [
+                "26"
+            ]
+        },
+        {
+            "uid": "287",
+            "label": "AAK28504.1 MupR",
+            "genes": [
+                "6"
+            ]
+        },
+        {
+            "uid": "288",
+            "label": "AAM12940.1 MupX",
+            "genes": [
+                "11"
+            ]
+        },
+        {
+            "uid": "289",
+            "label": "AAK28505.1 MupI",
+            "genes": [
+                "28"
+            ]
+        }
+    ]
+}

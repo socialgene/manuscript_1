@@ -1,0 +1,817 @@
+{
+  "config": {
+    "plot": {
+      "transitionDuration": 250,
+      "scaleFactor": 15,
+      "scaleGenes": true,
+      "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, \"Helvetica Neue\", Oxygen, Cantarell, sans-serif"
+    },
+    "legend": {
+      "entryHeight": 18,
+      "fontSize": 14,
+      "onClickCircle": null,
+      "show": true,
+      "marginLeft": 20
+    },
+    "colourBar": {
+      "fontSize": 10,
+      "height": 12,
+      "show": true,
+      "width": 150,
+      "marginTop": 20
+    },
+    "scaleBar": {
+      "colour": "black",
+      "fontSize": 10,
+      "height": 12,
+      "basePair": 2500,
+      "show": true,
+      "stroke": 1,
+      "marginTop": 20
+    },
+    "link": {
+      "show": true,
+      "asLine": false,
+      "straight": false,
+      "threshold": 0,
+      "strokeWidth": 0.5,
+      "groupColour": true,
+      "bestOnly": false,
+      "label": {
+        "show": true,
+        "fontSize": 10,
+        "background": true,
+        "position": 0.5
+      }
+    },
+    "cluster": {
+      "nameFontSize": 12,
+      "lociFontSize": 10,
+      "hideLocusCoordinates": false,
+      "spacing": 50,
+      "alignLabels": true
+    },
+    "locus": {
+      "trackBar": {
+        "colour": "#111",
+        "stroke": 1
+      },
+      "spacing": 50
+    },
+    "gene": {
+      "shape": {
+        "bodyHeight": 12,
+        "tipHeight": 5,
+        "tipLength": 12,
+        "stroke": "black",
+        "strokeWidth": 1
+      },
+      "label": {
+        "anchor": "start",
+        "fontSize": 10,
+        "rotation": 320,
+        "position": "bottom",
+        "spacing": 2,
+        "show": true,
+        "start": 0.5,
+        "name": "uid"
+      }
+    }
+  },
+  "data": {
+    "clusters": [
+      {
+        "uid": "1",
+        "name": "socialgene_query_BGC0000946",
+        "loci": [
+          {
+            "uid": "2",
+            "name": "BGC0000946",
+            "genes": [
+              {
+                "uid": "3",
+                "label": "vibrioferrin biosynthesis protein PvsA",
+                "names": {
+                  "name": "BAC16544.1",
+                  "description": "vibrioferrin biosynthesis protein PvsA",
+                  "id": "BAC16544.1",
+                  "locus_tag": null
+                },
+                "start": 0,
+                "end": 1211,
+                "strand": 1,
+                "_locus": "2",
+                "_cluster": "1",
+                "_start": 0,
+                "_end": 1211,
+                "_strand": 1
+              },
+              {
+                "uid": "5",
+                "label": "vibrioferrin biosynthesis protein PvsB",
+                "names": {
+                  "name": "BAC16545.1",
+                  "description": "vibrioferrin biosynthesis protein PvsB",
+                  "id": "BAC16545.1",
+                  "locus_tag": null
+                },
+                "start": 1208,
+                "end": 3040,
+                "strand": 1,
+                "_locus": "2",
+                "_cluster": "1",
+                "_start": 1208,
+                "_end": 3040,
+                "_strand": 1
+              },
+              {
+                "uid": "7",
+                "label": "multi-drug efflux pump homolog PvsC",
+                "names": {
+                  "name": "BAC16546.1",
+                  "description": "multi-drug efflux pump homolog PvsC",
+                  "id": "BAC16546.1",
+                  "locus_tag": null
+                },
+                "start": 3047,
+                "end": 4252,
+                "strand": 1,
+                "_locus": "2",
+                "_cluster": "1",
+                "_start": 3047,
+                "_end": 4252,
+                "_strand": 1
+              },
+              {
+                "uid": "4",
+                "label": "vibrioferrin biosynthesis protein PvsD",
+                "names": {
+                  "name": "BAC16547.1",
+                  "description": "vibrioferrin biosynthesis protein PvsD",
+                  "id": "BAC16547.1",
+                  "locus_tag": null
+                },
+                "start": 4224,
+                "end": 6053,
+                "strand": 1,
+                "_locus": "2",
+                "_cluster": "1",
+                "_start": 4224,
+                "_end": 6053,
+                "_strand": 1
+              },
+              {
+                "uid": "6",
+                "label": "vibrioferrin biosynthesis protein PvsE",
+                "names": {
+                  "name": "BAC16548.1",
+                  "description": "vibrioferrin biosynthesis protein PvsE",
+                  "id": "BAC16548.1",
+                  "locus_tag": null
+                },
+                "start": 6046,
+                "end": 7248,
+                "strand": 1,
+                "_locus": "2",
+                "_cluster": "1",
+                "_start": 6046,
+                "_end": 7248,
+                "_strand": 1
+              }
+            ],
+            "start": 0,
+            "end": 7248,
+            "_start": 0,
+            "_end": 7248,
+            "_offset": 0,
+            "_cluster": "1",
+            "_flipped": false,
+            "_trimLeft": null,
+            "_trimRight": null,
+            "_bio_start": 283,
+            "_bio_end": 7531
+          }
+        ],
+        "slot": 0
+      },
+      {
+        "uid": "8",
+        "name": "GCF_003574485.1",
+        "loci": [
+          {
+            "uid": "9",
+            "name": "NZ_QLIT01000270.1",
+            "genes": [
+              {
+                "uid": "33",
+                "label": "tetratricopeptide repeat protein",
+                "names": {
+                  "name": "WP_119344931.1",
+                  "description": "tetratricopeptide repeat protein",
+                  "id": "WP_119344931.1",
+                  "locus_tag": "DNK84_RS13150"
+                },
+                "start": 0,
+                "end": 1940,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 0,
+                "_end": 1940,
+                "_strand": 1
+              },
+              {
+                "uid": "27",
+                "label": "amino acid ABC transporter ATP-binding protein",
+                "names": {
+                  "name": "WP_119344930.1",
+                  "description": "amino acid ABC transporter ATP-binding protein",
+                  "id": "WP_119344930.1",
+                  "locus_tag": "DNK84_RS13145"
+                },
+                "start": 2074,
+                "end": 2853,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 2074,
+                "_end": 2853,
+                "_strand": 1
+              },
+              {
+                "uid": "34",
+                "label": "transporter substrate-binding domain-containing protein",
+                "names": {
+                  "name": "WP_119344929.1",
+                  "description": "transporter substrate-binding domain-containing protein",
+                  "id": "WP_119344929.1",
+                  "locus_tag": "DNK84_RS13140"
+                },
+                "start": 2865,
+                "end": 3608,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 2865,
+                "_end": 3608,
+                "_strand": 1
+              },
+              {
+                "uid": "25",
+                "label": "ABC transporter permease subunit",
+                "names": {
+                  "name": "WP_119344928.1",
+                  "description": "ABC transporter permease subunit",
+                  "id": "WP_119344928.1",
+                  "locus_tag": "DNK84_RS13135"
+                },
+                "start": 3610,
+                "end": 4290,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 3610,
+                "_end": 4290,
+                "_strand": 1
+              },
+              {
+                "uid": "12",
+                "label": "ABC transporter permease subunit",
+                "names": {
+                  "name": "WP_162902471.1",
+                  "description": "ABC transporter permease subunit",
+                  "id": "WP_162902471.1",
+                  "locus_tag": "DNK84_RS13130"
+                },
+                "start": 4271,
+                "end": 4969,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 4271,
+                "_end": 4969,
+                "_strand": 1
+              },
+              {
+                "uid": "28",
+                "label": "hypothetical protein",
+                "names": {
+                  "name": "WP_162902470.1",
+                  "description": "hypothetical protein",
+                  "id": "WP_162902470.1",
+                  "locus_tag": "DNK84_RS13125"
+                },
+                "start": 5051,
+                "end": 5752,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 5051,
+                "_end": 5752,
+                "_strand": -1
+              },
+              {
+                "uid": "26",
+                "label": "MBL fold metallo-hydrolase",
+                "names": {
+                  "name": "WP_235826908.1",
+                  "description": "MBL fold metallo-hydrolase",
+                  "id": "WP_235826908.1",
+                  "locus_tag": "DNK84_RS13120"
+                },
+                "start": 5745,
+                "end": 6434,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 5745,
+                "_end": 6434,
+                "_strand": -1
+              },
+              {
+                "uid": "21",
+                "label": "peroxiredoxin",
+                "names": {
+                  "name": "WP_119344925.1",
+                  "description": "peroxiredoxin",
+                  "id": "WP_119344925.1",
+                  "locus_tag": "DNK84_RS13115"
+                },
+                "start": 6450,
+                "end": 7082,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 6450,
+                "_end": 7082,
+                "_strand": -1
+              },
+              {
+                "uid": "10",
+                "label": "tyrosine-type recombinase/integrase",
+                "names": {
+                  "name": "WP_119344924.1",
+                  "description": "tyrosine-type recombinase/integrase",
+                  "id": "WP_119344924.1",
+                  "locus_tag": "DNK84_RS13110"
+                },
+                "start": 7284,
+                "end": 8159,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 7284,
+                "_end": 8159,
+                "_strand": 1
+              },
+              {
+                "uid": "13",
+                "label": "FYVE zinc finger domain-containing protein",
+                "names": {
+                  "name": "WP_119344923.1",
+                  "description": "FYVE zinc finger domain-containing protein",
+                  "id": "WP_119344923.1",
+                  "locus_tag": "DNK84_RS13105"
+                },
+                "start": 8583,
+                "end": 9524,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 8583,
+                "_end": 9524,
+                "_strand": -1
+              },
+              {
+                "uid": "32",
+                "label": "type II toxin-antitoxin system VapC family toxin",
+                "names": {
+                  "name": "WP_119344922.1",
+                  "description": "type II toxin-antitoxin system VapC family toxin",
+                  "id": "WP_119344922.1",
+                  "locus_tag": "DNK84_RS13100"
+                },
+                "start": 9894,
+                "end": 10313,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 9894,
+                "_end": 10313,
+                "_strand": -1
+              },
+              {
+                "uid": "11",
+                "label": "type II toxin-antitoxin system Phd/YefM family antitoxin",
+                "names": {
+                  "name": "WP_119344921.1",
+                  "description": "type II toxin-antitoxin system Phd/YefM family antitoxin",
+                  "id": "WP_119344921.1",
+                  "locus_tag": "DNK84_RS13095"
+                },
+                "start": 10313,
+                "end": 10567,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 10313,
+                "_end": 10567,
+                "_strand": -1
+              },
+              {
+                "uid": "30",
+                "label": "iron ABC transporter permease",
+                "names": {
+                  "name": "WP_119344920.1",
+                  "description": "iron ABC transporter permease",
+                  "id": "WP_119344920.1",
+                  "locus_tag": "DNK84_RS13090"
+                },
+                "start": 10664,
+                "end": 12658,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 10664,
+                "_end": 12658,
+                "_strand": -1
+              },
+              {
+                "uid": "29",
+                "label": "iron-siderophore ABC transporter substrate-binding protein",
+                "names": {
+                  "name": "WP_119344919.1",
+                  "description": "iron-siderophore ABC transporter substrate-binding protein",
+                  "id": "WP_119344919.1",
+                  "locus_tag": "DNK84_RS13085"
+                },
+                "start": 12655,
+                "end": 13620,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 12655,
+                "_end": 13620,
+                "_strand": -1
+              },
+              {
+                "uid": "19",
+                "label": "TonB family protein",
+                "names": {
+                  "name": "WP_162902469.1",
+                  "description": "TonB family protein",
+                  "id": "WP_162902469.1",
+                  "locus_tag": "DNK84_RS13080"
+                },
+                "start": 13630,
+                "end": 14349,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 13630,
+                "_end": 14349,
+                "_strand": -1
+              },
+              {
+                "uid": "31",
+                "label": "biopolymer transporter ExbD",
+                "names": {
+                  "name": "WP_119344917.1",
+                  "description": "biopolymer transporter ExbD",
+                  "id": "WP_119344917.1",
+                  "locus_tag": "DNK84_RS13075"
+                },
+                "start": 14351,
+                "end": 14743,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 14351,
+                "_end": 14743,
+                "_strand": -1
+              },
+              {
+                "uid": "16",
+                "label": "biopolymer transporter ExbD",
+                "names": {
+                  "name": "WP_119344916.1",
+                  "description": "biopolymer transporter ExbD",
+                  "id": "WP_119344916.1",
+                  "locus_tag": "DNK84_RS13070"
+                },
+                "start": 14762,
+                "end": 15157,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 14762,
+                "_end": 15157,
+                "_strand": -1
+              },
+              {
+                "uid": "23",
+                "label": "MotA/TolQ/ExbB proton channel family protein",
+                "names": {
+                  "name": "WP_119344915.1",
+                  "description": "MotA/TolQ/ExbB proton channel family protein",
+                  "id": "WP_119344915.1",
+                  "locus_tag": "DNK84_RS13065"
+                },
+                "start": 15159,
+                "end": 15764,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 15159,
+                "_end": 15764,
+                "_strand": -1
+              },
+              {
+                "uid": "22",
+                "label": "TonB-dependent siderophore receptor",
+                "names": {
+                  "name": "WP_119344914.1",
+                  "description": "TonB-dependent siderophore receptor",
+                  "id": "WP_119344914.1",
+                  "locus_tag": "DNK84_RS13060"
+                },
+                "start": 15924,
+                "end": 18041,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 15924,
+                "_end": 18041,
+                "_strand": 1
+              },
+              {
+                "uid": "35",
+                "label": "ATP-grasp domain-containing protein",
+                "names": {
+                  "name": "WP_119344913.1",
+                  "description": "ATP-grasp domain-containing protein",
+                  "id": "WP_119344913.1",
+                  "locus_tag": "DNK84_RS13055"
+                },
+                "start": 18052,
+                "end": 19257,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 18052,
+                "_end": 19257,
+                "_strand": 1
+              },
+              {
+                "uid": "15",
+                "label": "hypothetical protein",
+                "names": {
+                  "name": "WP_119344912.1",
+                  "description": "hypothetical protein",
+                  "id": "WP_119344912.1",
+                  "locus_tag": "DNK84_RS13050"
+                },
+                "start": 19236,
+                "end": 21002,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 19236,
+                "_end": 21002,
+                "_strand": 1
+              },
+              {
+                "uid": "24",
+                "label": "MFS transporter",
+                "names": {
+                  "name": "WP_162902468.1",
+                  "description": "MFS transporter",
+                  "id": "WP_162902468.1",
+                  "locus_tag": "DNK84_RS13045"
+                },
+                "start": 20980,
+                "end": 22206,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 20980,
+                "_end": 22206,
+                "_strand": 1
+              },
+              {
+                "uid": "17",
+                "label": "hypothetical protein",
+                "names": {
+                  "name": "WP_119344910.1",
+                  "description": "hypothetical protein",
+                  "id": "WP_119344910.1",
+                  "locus_tag": "DNK84_RS13040"
+                },
+                "start": 22203,
+                "end": 23972,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 22203,
+                "_end": 23972,
+                "_strand": 1
+              },
+              {
+                "uid": "14",
+                "label": "type III PLP-dependent enzyme",
+                "names": {
+                  "name": "WP_119344909.1",
+                  "description": "type III PLP-dependent enzyme",
+                  "id": "WP_119344909.1",
+                  "locus_tag": "DNK84_RS13035"
+                },
+                "start": 23975,
+                "end": 25246,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 23975,
+                "_end": 25246,
+                "_strand": 1
+              },
+              {
+                "uid": "18",
+                "label": "ABC transporter ATP-binding protein",
+                "names": {
+                  "name": "WP_119344908.1",
+                  "description": "ABC transporter ATP-binding protein",
+                  "id": "WP_119344908.1",
+                  "locus_tag": "DNK84_RS13030"
+                },
+                "start": 25236,
+                "end": 26018,
+                "strand": 1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 25236,
+                "_end": 26018,
+                "_strand": 1
+              },
+              {
+                "uid": "20",
+                "label": "ankyrin repeat domain-containing protein",
+                "names": {
+                  "name": "WP_208123337.1",
+                  "description": "ankyrin repeat domain-containing protein",
+                  "id": "WP_208123337.1",
+                  "locus_tag": "DNK84_RS13025"
+                },
+                "start": 25981,
+                "end": 27018,
+                "strand": -1,
+                "_locus": "9",
+                "_cluster": "8",
+                "_start": 25981,
+                "_end": 27018,
+                "_strand": -1
+              }
+            ],
+            "start": 0,
+            "end": 27018,
+            "_start": 10664,
+            "_end": 27018,
+            "_offset": 0,
+            "_cluster": "8",
+            "_flipped": true,
+            "_trimLeft": {
+              "uid": "30",
+              "label": "iron ABC transporter permease",
+              "names": {
+                "name": "WP_119344920.1",
+                "description": "iron ABC transporter permease",
+                "id": "WP_119344920.1",
+                "locus_tag": "DNK84_RS13090"
+              },
+              "start": 10664,
+              "end": 12658,
+              "strand": -1,
+              "_locus": "9",
+              "_cluster": "8",
+              "_start": 10664,
+              "_end": 12658,
+              "_strand": -1
+            },
+            "_trimRight": null,
+            "_bio_start": 1,
+            "_bio_end": 27019
+          }
+        ],
+        "slot": 1
+      }
+    ],
+    "links": [
+      {
+        "uid": "36",
+        "target": {
+          "uid": "14",
+          "name": "14"
+        },
+        "query": {
+          "uid": "6",
+          "name": "6"
+        },
+        "identity": 46.3
+      },
+      {
+        "uid": "37",
+        "target": {
+          "uid": "17",
+          "name": "17"
+        },
+        "query": {
+          "uid": "4",
+          "name": "4"
+        },
+        "identity": 32.9
+      },
+      {
+        "uid": "38",
+        "target": {
+          "uid": "24",
+          "name": "24"
+        },
+        "query": {
+          "uid": "7",
+          "name": "7"
+        },
+        "identity": 32
+      },
+      {
+        "uid": "39",
+        "target": {
+          "uid": "15",
+          "name": "15"
+        },
+        "query": {
+          "uid": "5",
+          "name": "5"
+        },
+        "identity": 31.8
+      },
+      {
+        "uid": "40",
+        "target": {
+          "uid": "35",
+          "name": "35"
+        },
+        "query": {
+          "uid": "3",
+          "name": "3"
+        },
+        "identity": 32.5
+      }
+    ],
+    "groups": [
+      {
+        "uid": "41",
+        "label": "BAC16544.1 vibrioferrin biosynthesis protein PvsA",
+        "genes": [
+          "3",
+          "35"
+        ],
+        "colour": "rgb(110, 64, 170)"
+      },
+      {
+        "uid": "42",
+        "label": "BAC16545.1 vibrioferrin biosynthesis protein PvsB",
+        "genes": [
+          "5",
+          "15"
+        ],
+        "colour": "rgb(254, 75, 131)"
+      },
+      {
+        "uid": "43",
+        "label": "BAC16546.1 multi-drug efflux pump homolog PvsC",
+        "genes": [
+          "7",
+          "24"
+        ],
+        "colour": "rgb(226, 183, 47)"
+      },
+      {
+        "uid": "44",
+        "label": "BAC16547.1 vibrioferrin biosynthesis protein PvsD",
+        "genes": [
+          "4",
+          "17"
+        ],
+        "colour": "rgb(82, 246, 103)"
+      },
+      {
+        "uid": "45",
+        "label": "BAC16548.1 vibrioferrin biosynthesis protein PvsE",
+        "genes": [
+          "6",
+          "14"
+        ],
+        "colour": "rgb(35, 171, 216)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+    "clusters": [
+        {
+            "uid": "1",
+            "name": "socialgene_query_BGC0000946",
+            "loci": [
+                {
+                    "uid": "2",
+                    "name": "BGC0000946",
+                    "genes": [
+                        {
+                            "uid": "3",
+                            "label": "BAC16547.1",
+                            "names": {
+                                "name": "BAC16547.1",
+                                "description": "vibrioferrin biosynthesis protein PvsD",
+                                "id": "BAC16547.1",
+                                "locus_tag": null
+                            },
+                            "start": 4507,
+                            "end": 6336,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "4",
+                            "label": "BAC16544.1",
+                            "names": {
+                                "name": "BAC16544.1",
+                                "description": "vibrioferrin biosynthesis protein PvsA",
+                                "id": "BAC16544.1",
+                                "locus_tag": null
+                            },
+                            "start": 283,
+                            "end": 1494,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "5",
+                            "label": "BAC16546.1",
+                            "names": {
+                                "name": "BAC16546.1",
+                                "description": "multi-drug efflux pump homolog PvsC",
+                                "id": "BAC16546.1",
+                                "locus_tag": null
+                            },
+                            "start": 3330,
+                            "end": 4535,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "6",
+                            "label": "BAC16545.1",
+                            "names": {
+                                "name": "BAC16545.1",
+                                "description": "vibrioferrin biosynthesis protein PvsB",
+                                "id": "BAC16545.1",
+                                "locus_tag": null
+                            },
+                            "start": 1491,
+                            "end": 3323,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "7",
+                            "label": "BAC16548.1",
+                            "names": {
+                                "name": "BAC16548.1",
+                                "description": "vibrioferrin biosynthesis protein PvsE",
+                                "id": "BAC16548.1",
+                                "locus_tag": null
+                            },
+                            "start": 6329,
+                            "end": 7531,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 283,
+                    "end": 7531
+                }
+            ]
+        }
+    ],
+    "links": [],
+    "groups": [
+        {
+            "uid": "8",
+            "label": "BAC16544.1 vibrioferrin biosynthesis protein PvsA",
+            "genes": [
+                "4"
+            ]
+        },
+        {
+            "uid": "9",
+            "label": "BAC16545.1 vibrioferrin biosynthesis protein PvsB",
+            "genes": [
+                "6"
+            ]
+        },
+        {
+            "uid": "10",
+            "label": "BAC16546.1 multi-drug efflux pump homolog PvsC",
+            "genes": [
+                "5"
+            ]
+        },
+        {
+            "uid": "11",
+            "label": "BAC16547.1 vibrioferrin biosynthesis protein PvsD",
+            "genes": [
+                "3"
+            ]
+        },
+        {
+            "uid": "12",
+            "label": "BAC16548.1 vibrioferrin biosynthesis protein PvsE",
+            "genes": [
+                "7"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="clusterMap"
+   id="root-svg"
+   cursor="grab"
+   width="850.294677734375"
+   height="191.17056274414062"
+   version="1.1"
+   sodipodi:docname="clinker (3).svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview264"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="5.142627"
+     inkscape:cx="378.98919"
+     inkscape:cy="138.93677"
+     inkscape:window-width="3770"
+     inkscape:window-height="2089"
+     inkscape:window-x="70"
+     inkscape:window-y="1149"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="root-svg" />
+  <defs
+     id="defs7">
+    <filter
+       id="filter_solid"
+       x="0"
+       y="0"
+       width="1"
+       height="1">
+      <feFlood
+         flood-color="rgba(0, 0, 0, 0.8)"
+         id="feFlood2"
+         result="result1" />
+      <feComposite
+         in="SourceGraphic"
+         in2="result1"
+         id="feComposite4" />
+    </filter>
+  </defs>
+  <path
+     class="geneLink"
+     d="m 220.00541,55.458939 c 0,37.5 -4.94043,37.5 -4.94043,75.000001 h 19.065 c 0,-37.500001 3.90543,-37.500001 3.90543,-75.000001 h -18.03"
+     style="fill:#7bcde8;stroke:#23abd8;stroke-width:0.5px"
+     opacity="1"
+     id="path9" />
+  <text
+     class="geneLinkLabel"
+     opacity="1"
+     filter="url(#filter_solid)"
+     x="227.60507"
+     y="79.458939"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+     id="text11">46.3</text>
+  <path
+     class="geneLink"
+     d="m 237.93041,55.458939 c 0,37.5 -3.75543,37.5 -3.75543,75.000001 h 26.535 c 0,-37.500001 4.65543,-37.500001 4.65543,-75.000001 h -27.435"
+     style="fill:#97faa4;stroke:#52f667;stroke-width:0.5px"
+     opacity="1"
+     id="path14" />
+  <text
+     class="geneLinkLabel"
+     opacity="1"
+     filter="url(#filter_solid)"
+     x="250.30217"
+     y="79.458939"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+     id="text16">32.9</text>
+  <path
+     class="geneLink"
+     d="m 264.94541,55.458939 c 0,37.5 -4.28043,37.5 -4.28043,75.000001 h 18.39 c 0,-37.500001 3.96543,-37.500001 3.96543,-75.000001 h -18.075"
+     style="fill:#eed482;stroke:#e2b72f;stroke-width:0.5px"
+     opacity="1"
+     id="path19" />
+  <text
+     class="geneLinkLabel"
+     opacity="1"
+     filter="url(#filter_solid)"
+     x="272.66357"
+     y="79.458939"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+     id="text21">32.0</text>
+  <path
+     class="geneLink"
+     d="m 283.12541,55.458939 c 0,37.5 -4.40043,37.5 -4.40043,75.000001 h 26.49 c 0,-37.500001 5.39043,-37.500001 5.39043,-75.000001 h -27.48"
+     style="fill:#fe93b5;stroke:#fe4b83;stroke-width:0.5px"
+     opacity="1"
+     id="path24" />
+  <text
+     class="geneLinkLabel"
+     opacity="1"
+     filter="url(#filter_solid)"
+     x="295.29886"
+     y="79.458939"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+     id="text26">31.8</text>
+  <path
+     class="geneLink"
+     d="m 310.56041,55.458939 c 0,37.5 -5.66043,37.5 -5.66043,75.000001 h 18.075 c 0,-37.500001 5.75043,-37.500001 5.75043,-75.000001 h -18.165"
+     style="fill:#a88ccc;stroke:#6e40aa;stroke-width:0.5px"
+     opacity="1"
+     id="path29" />
+  <text
+     class="geneLinkLabel"
+     opacity="1"
+     filter="url(#filter_solid)"
+     x="317.81717"
+     y="79.458939"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;text-anchor:middle;fill:#ffffff"
+     id="text31">32.5</text>
+  <text
+     class="clusterText"
+     y="52.458939"
+     cursor="pointer"
+     text-anchor="end"
+     style="font-weight:bold;font-size:12px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+     id="text36"
+     x="178.48499">socialgene_query_BGC0000946</text>
+  <text
+     class="locusText"
+     y="56.458939"
+     text-anchor="end"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+     id="text38"
+     x="178.48499">BGC0000946 (reversed):7531-284</text>
+  <line
+     class="trackBar"
+     x1="220.00542"
+     x2="328.7254"
+     y1="55.458939"
+     y2="55.458939"
+     style="fill:#111111;stroke:#111111;stroke-width:1"
+     id="line41" />
+  <g
+     id="gene_6"
+     class="gene"
+     display="inline"
+     transform="translate(220.02041,44.458939)">
+    <polygon
+       class="genePolygon group-45"
+       points="11.985,17 18.015,17 18.015,5 11.985,5 11.985,0 -0.015,11 11.985,22 "
+       fill="#23abd8"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon43" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,-0.01445835,-21.281274)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text45">vibrioferrin biosynthesis protein PvsE</text>
+  </g>
+  <g
+     id="gene_4"
+     class="gene"
+     display="inline"
+     transform="translate(220.02041,44.458939)">
+    <polygon
+       class="genePolygon group-44"
+       points="29.91,17 45.345,17 45.345,5 29.91,5 29.91,0 17.91,11 29.91,22 "
+       fill="#52f667"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon48" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,11.299292,-72.314303)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text50">vibrioferrin biosynthesis protein PvsD</text>
+  </g>
+  <g
+     id="gene_7"
+     class="gene"
+     display="inline"
+     transform="translate(220.02041,44.458939)">
+    <polygon
+       class="genePolygon group-43"
+       points="56.925,17 63,17 63,5 56.925,5 56.925,0 44.925,11 56.925,22 "
+       fill="#e2b72f"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon53" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,22.466792,-122.68764)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text55">multi-drug efflux pump homolog PvsC</text>
+  </g>
+  <g
+     id="gene_5"
+     class="gene"
+     display="inline"
+     transform="translate(220.02041,44.458939)">
+    <polygon
+       class="genePolygon group-42"
+       points="75.105,17 90.585,17 90.585,5 75.105,5 75.105,0 63.105,11 75.105,22 "
+       fill="#fe4b83"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon58" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,33.908042,-174.29579)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text60">vibrioferrin biosynthesis protein PvsB</text>
+  </g>
+  <g
+     id="gene_3"
+     class="gene"
+     display="inline"
+     transform="translate(220.02041,44.458939)">
+    <polygon
+       class="genePolygon group-41"
+       points="102.54,17 108.705,17 108.705,5 102.54,5 102.54,0 90.54,11 102.54,22 "
+       fill="#6e40aa"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon63" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,45.29679,-225.66711)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text65">vibrioferrin biosynthesis protein PvsA</text>
+  </g>
+  <text
+     class="clusterText"
+     y="127.45894"
+     cursor="pointer"
+     text-anchor="end"
+     style="font-weight:bold;font-size:12px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+     id="text74"
+     x="178.48499">GCF_003574485.1</text>
+  <text
+     class="locusText"
+     y="131.45894"
+     text-anchor="end"
+     style="font-size:10px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+     id="text76"
+     x="178.48499">NZ_QLIT01000270.1:2-20569</text>
+  <line
+     class="trackBar"
+     x1="188.48499"
+     x2="433.92242"
+     y1="130.45894"
+     y2="130.45894"
+     style="fill:#111111;stroke:#111111;stroke-width:0.891926"
+     id="line79" />
+  <g
+     id="gene_12"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="341.19,5 341.19,0 330.72,11 341.19,22 341.19,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon91" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,163.46305,-758.68064)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text93">ABC transporter permease subunit</text>
+  </g>
+  <g
+     id="gene_14"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon group-45"
+       points="38.565,17 45.63,17 45.63,5 38.565,5 38.565,0 26.565,11 38.565,22 "
+       fill="#23abd8"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon101" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,13.534292,-82.395735)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text103">type III PLP-dependent enzyme</text>
+  </g>
+  <g
+     id="gene_15"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon group-42"
+       points="102.225,17 116.715,17 116.715,5 102.225,5 102.225,0 90.225,11 102.225,22 "
+       fill="#fe4b83"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon106" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,47.220542,-234.34459)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text108">hypothetical protein</text>
+  </g>
+  <g
+     id="gene_16"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="177.9,5 177.9,0 183.825,11 177.9,22 177.9,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon111" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,85.916789,-408.89208)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text113">biopolymer transporter ExbD</text>
+  </g>
+  <g
+     id="gene_17"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon group-44"
+       points="57.675,17 72.21,17 72.21,5 57.675,5 57.675,0 45.675,11 57.675,22 "
+       fill="#52f667"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon116" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,24.956792,-133.91931)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text118">hypothetical protein</text>
+  </g>
+  <g
+     id="gene_18"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="26.715,5 26.715,0 14.985,11 26.715,22 26.715,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon121" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,5.9105418,-48.007223)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text123">ABC transporter ATP-binding protein</text>
+  </g>
+  <g
+     id="gene_19"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="190.02,5 190.02,0 200.805,11 190.02,22 190.02,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon126" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,93.191791,-441.70749)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text128">TonB family protein</text>
+  </g>
+  <g
+     id="gene_20"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="3.54,17 -0.015,17 -0.015,5 3.54,5 3.54,0 15.54,11 3.54,22 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon131" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,-0.63320845,-18.490272)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text133">ankyrin repeat domain-containing protein</text>
+  </g>
+  <g
+     id="gene_22"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="146.64,17 166.395,17 166.395,5 146.64,5 146.64,0 134.64,11 146.64,22 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon141" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,70.744289,-340.45336)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text143">TonB-dependent siderophore receptor</text>
+  </g>
+  <g
+     id="gene_23"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="168.795,5 168.795,0 177.87,11 168.795,22 168.795,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon146" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,82.15179,-391.90927)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text148">MotA/TolQ/ExbB proton channel family protein</text>
+  </g>
+  <g
+     id="gene_24"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon group-43"
+       points="84.165,17 90.555,17 90.555,5 84.165,5 84.165,0 72.165,11 84.165,22 "
+       fill="#e2b72f"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon151" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,36.165542,-184.47871)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text153">MFS transporter</text>
+  </g>
+  <g
+     id="gene_25"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="351.105,5 351.105,0 340.905,11 351.105,22 351.105,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon156" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,168.48804,-781.34693)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text158">ABC transporter permease subunit</text>
+  </g>
+  <g
+     id="gene_26"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="308.745,5 308.745,0 319.08,11 308.745,22 308.745,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon161" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,152.44179,-708.96697)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text163">MBL fold metallo-hydrolase</text>
+  </g>
+  <g
+     id="gene_27"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="374.145,5 374.145,0 362.46,11 374.145,22 374.145,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon166" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,179.6368,-831.63572)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text168">amino acid ABC transporter ATP-binding protein</text>
+  </g>
+  <g
+     id="gene_28"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="318.975,5 318.975,0 329.49,11 318.975,22 318.975,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon171" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,157.60179,-732.24225)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text173">hypothetical protein</text>
+  </g>
+  <g
+     id="gene_29"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="203.43,17 200.955,17 200.955,5 203.43,5 203.43,0 215.43,11 203.43,22 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon176" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,99.58179,-470.53092)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text178">iron-siderophore ABC transporter substrate-binding protein</text>
+  </g>
+  <g
+     id="gene_30"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="233.295,17 215.385,17 215.385,5 233.295,5 233.295,0 245.295,11 233.295,22 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon181" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,110.65554,-520.48139)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text183">iron ABC transporter permease</text>
+  </g>
+  <g
+     id="gene_31"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="184.11,5 184.11,0 189.99,11 184.11,22 184.11,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon186" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,89.010539,-422.84709)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text188">biopolymer transporter ExbD</text>
+  </g>
+  <g
+     id="gene_33"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="388.155,17 405.255,17 405.255,5 388.155,5 388.155,0 376.155,11 388.155,22 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon196" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,190.83805,-882.16129)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text198">tetratricopeptide repeat protein</text>
+  </g>
+  <g
+     id="gene_34"
+     class="gene"
+     display="none"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon"
+       points="362.28,5 362.28,0 351.135,11 362.28,22 362.28,17 "
+       fill="#bbbbbb"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon201" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,173.8393,-805.48489)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text203">transporter substrate-binding domain-containing protein</text>
+  </g>
+  <g
+     id="gene_35"
+     class="gene"
+     display="inline"
+     transform="translate(188.49998,119.45894)">
+    <polygon
+       class="genePolygon group-41"
+       points="128.4,17 134.475,17 134.475,5 128.4,5 128.4,0 116.4,11 128.4,22 "
+       fill="#6e40aa"
+       style="stroke:#000000;stroke-width:1"
+       id="polygon206" />
+    <text
+       class="geneLabel"
+       dy="-0.40000001em"
+       display="inherit"
+       transform="rotate(-25,58.204292,-283.88908)"
+       font-size="5px"
+       text-anchor="start"
+       style="font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif"
+       id="text208">ATP-grasp domain-containing protein</text>
+  </g>
+  <line
+     class="flatBar"
+     x2="225.52498"
+     y1="167.45894"
+     y2="167.45894"
+     style="stroke:#000000;stroke-width:1"
+     id="line251"
+     x1="188.03998" />
+  <line
+     class="leftBar"
+     y2="173.45894"
+     style="stroke:#000000;stroke-width:1"
+     id="line253"
+     x1="188.03998"
+     y1="161.45894"
+     x2="188.03998" />
+  <line
+     class="rightBar"
+     x1="225.52498"
+     x2="225.52498"
+     y2="173.45894"
+     style="stroke:#000000;stroke-width:1"
+     id="line255"
+     y1="161.45894" />
+  <text
+     class="barText"
+     text-anchor="middle"
+     cursor="pointer"
+     x="206.78249"
+     y="178.45894"
+     style="font-size:13.3333px;font-family:system-ui, '-apple-system', BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu, 'Helvetica Neue', Oxygen, Cantarell, sans-serif;dominant-baseline:hanging"
+     id="text257">2.5kb</text>
+</svg>

@@ -1,0 +1,1428 @@
+{
+    "clusters": [
+        {
+            "uid": "1",
+            "name": "BGC0001646",
+            "loci": [
+                {
+                    "uid": "2",
+                    "name": "BGC0001646",
+                    "genes": [
+                        {
+                            "uid": "3",
+                            "label": "AXA20097.1",
+                            "names": {
+                                "name": "AXA20097.1",
+                                "description": "nuclear transport factor 2 (NTF2)-like protein LgaL",
+                                "id": "AXA20097.1",
+                                "locus_tag": null
+                            },
+                            "start": 86717,
+                            "end": 87112,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "4",
+                            "label": "AXA20089.1",
+                            "names": {
+                                "name": "AXA20089.1",
+                                "description": "hypothetical protein",
+                                "id": "AXA20089.1",
+                                "locus_tag": null
+                            },
+                            "start": 2828,
+                            "end": 3118,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "5",
+                            "label": "AXA20088.1",
+                            "names": {
+                                "name": "AXA20088.1",
+                                "description": "transposase",
+                                "id": "AXA20088.1",
+                                "locus_tag": null
+                            },
+                            "start": 2205,
+                            "end": 2315,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "6",
+                            "label": "AXA20094.1",
+                            "names": {
+                                "name": "AXA20094.1",
+                                "description": "acyltransferase LgaE",
+                                "id": "AXA20094.1",
+                                "locus_tag": null
+                            },
+                            "start": 57289,
+                            "end": 58401,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "7",
+                            "label": "AXA20087.1",
+                            "names": {
+                                "name": "AXA20087.1",
+                                "description": "competence protein ComEC",
+                                "id": "AXA20087.1",
+                                "locus_tag": null
+                            },
+                            "start": 1915,
+                            "end": 2109,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "8",
+                            "label": "AXA20093.1",
+                            "names": {
+                                "name": "AXA20093.1",
+                                "description": "trans-AT PKS LgaD",
+                                "id": "AXA20093.1",
+                                "locus_tag": null
+                            },
+                            "start": 53400,
+                            "end": 57239,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "9",
+                            "label": "AXA20091.1",
+                            "names": {
+                                "name": "AXA20091.1",
+                                "description": "hybrid trans-AT PKS/NRPS LgaB",
+                                "id": "AXA20091.1",
+                                "locus_tag": null
+                            },
+                            "start": 13790,
+                            "end": 33007,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "10",
+                            "label": "AXA20099.1",
+                            "names": {
+                                "name": "AXA20099.1",
+                                "description": "acylhydrolase LgaI",
+                                "id": "AXA20099.1",
+                                "locus_tag": null
+                            },
+                            "start": 88580,
+                            "end": 89593,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "11",
+                            "label": "AXA20106.1",
+                            "names": {
+                                "name": "AXA20106.1",
+                                "description": "all-trans-phytoene synthase",
+                                "id": "AXA20106.1",
+                                "locus_tag": null
+                            },
+                            "start": 98026,
+                            "end": 98871,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "12",
+                            "label": "AXA20096.1",
+                            "names": {
+                                "name": "AXA20096.1",
+                                "description": "trans-AT PKS LgaG",
+                                "id": "AXA20096.1",
+                                "locus_tag": null
+                            },
+                            "start": 59909,
+                            "end": 86623,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "13",
+                            "label": "AXA20086.1",
+                            "names": {
+                                "name": "AXA20086.1",
+                                "description": "sigma-70 RpoE",
+                                "id": "AXA20086.1",
+                                "locus_tag": null
+                            },
+                            "start": 1190,
+                            "end": 1714,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "14",
+                            "label": "AXA20101.1",
+                            "names": {
+                                "name": "AXA20101.1",
+                                "description": "cytochrome P450 LgaJ",
+                                "id": "AXA20101.1",
+                                "locus_tag": null
+                            },
+                            "start": 90836,
+                            "end": 92020,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "15",
+                            "label": "AXA20100.1",
+                            "names": {
+                                "name": "AXA20100.1",
+                                "description": "transposase",
+                                "id": "AXA20100.1",
+                                "locus_tag": null
+                            },
+                            "start": 90318,
+                            "end": 90704,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "16",
+                            "label": "AXA20098.1",
+                            "names": {
+                                "name": "AXA20098.1",
+                                "description": "MATE family efflux transporter LgaH",
+                                "id": "AXA20098.1",
+                                "locus_tag": null
+                            },
+                            "start": 87147,
+                            "end": 88520,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "17",
+                            "label": "AXA20105.1",
+                            "names": {
+                                "name": "AXA20105.1",
+                                "description": "squalene--hopene cyclase",
+                                "id": "AXA20105.1",
+                                "locus_tag": null
+                            },
+                            "start": 95865,
+                            "end": 97904,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "18",
+                            "label": "AXA20092.1",
+                            "names": {
+                                "name": "AXA20092.1",
+                                "description": "trans-AT PKS LgaC",
+                                "id": "AXA20092.1",
+                                "locus_tag": null
+                            },
+                            "start": 33004,
+                            "end": 53403,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "19",
+                            "label": "AXA20095.1",
+                            "names": {
+                                "name": "AXA20095.1",
+                                "description": "enoylreductase LgaF",
+                                "id": "AXA20095.1",
+                                "locus_tag": null
+                            },
+                            "start": 58398,
+                            "end": 59783,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "20",
+                            "label": "AXA20104.1",
+                            "names": {
+                                "name": "AXA20104.1",
+                                "description": "phosphoenolpyruvate-protein phosphotransferase",
+                                "id": "AXA20104.1",
+                                "locus_tag": null
+                            },
+                            "start": 93904,
+                            "end": 95667,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "21",
+                            "label": "AXA20103.1",
+                            "names": {
+                                "name": "AXA20103.1",
+                                "description": "ketoreductase LgaK",
+                                "id": "AXA20103.1",
+                                "locus_tag": null
+                            },
+                            "start": 92859,
+                            "end": 93680,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "22",
+                            "label": "AXA20102.1",
+                            "names": {
+                                "name": "AXA20102.1",
+                                "description": "LgaM",
+                                "id": "AXA20102.1",
+                                "locus_tag": null
+                            },
+                            "start": 92083,
+                            "end": 92817,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "23",
+                            "label": "AXA20107.1",
+                            "names": {
+                                "name": "AXA20107.1",
+                                "description": "hypothetical protein",
+                                "id": "AXA20107.1",
+                                "locus_tag": null
+                            },
+                            "start": 98927,
+                            "end": 99394,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "24",
+                            "label": "AXA20090.1",
+                            "names": {
+                                "name": "AXA20090.1",
+                                "description": "hybrid trans-AT PKS/NRPS LgaA",
+                                "id": "AXA20090.1",
+                                "locus_tag": null
+                            },
+                            "start": 3132,
+                            "end": 13793,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 1190,
+                    "end": 99394
+                }
+            ]
+        },
+        {
+            "uid": "25",
+            "name": "BGC0001646",
+            "loci": [
+                {
+                    "uid": "26",
+                    "name": "BGC0001646",
+                    "genes": [
+                        {
+                            "uid": "27",
+                            "label": "AXA20100.1",
+                            "names": {
+                                "name": "AXA20100.1",
+                                "description": "transposase",
+                                "id": "AXA20100.1",
+                                "locus_tag": null
+                            },
+                            "start": 90318,
+                            "end": 90704,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "28",
+                            "label": "AXA20098.1",
+                            "names": {
+                                "name": "AXA20098.1",
+                                "description": "MATE family efflux transporter LgaH",
+                                "id": "AXA20098.1",
+                                "locus_tag": null
+                            },
+                            "start": 87147,
+                            "end": 88520,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "29",
+                            "label": "AXA20105.1",
+                            "names": {
+                                "name": "AXA20105.1",
+                                "description": "squalene--hopene cyclase",
+                                "id": "AXA20105.1",
+                                "locus_tag": null
+                            },
+                            "start": 95865,
+                            "end": 97904,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "30",
+                            "label": "AXA20092.1",
+                            "names": {
+                                "name": "AXA20092.1",
+                                "description": "trans-AT PKS LgaC",
+                                "id": "AXA20092.1",
+                                "locus_tag": null
+                            },
+                            "start": 33004,
+                            "end": 53403,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "31",
+                            "label": "AXA20095.1",
+                            "names": {
+                                "name": "AXA20095.1",
+                                "description": "enoylreductase LgaF",
+                                "id": "AXA20095.1",
+                                "locus_tag": null
+                            },
+                            "start": 58398,
+                            "end": 59783,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "32",
+                            "label": "AXA20104.1",
+                            "names": {
+                                "name": "AXA20104.1",
+                                "description": "phosphoenolpyruvate-protein phosphotransferase",
+                                "id": "AXA20104.1",
+                                "locus_tag": null
+                            },
+                            "start": 93904,
+                            "end": 95667,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "33",
+                            "label": "AXA20103.1",
+                            "names": {
+                                "name": "AXA20103.1",
+                                "description": "ketoreductase LgaK",
+                                "id": "AXA20103.1",
+                                "locus_tag": null
+                            },
+                            "start": 92859,
+                            "end": 93680,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "34",
+                            "label": "AXA20102.1",
+                            "names": {
+                                "name": "AXA20102.1",
+                                "description": "LgaM",
+                                "id": "AXA20102.1",
+                                "locus_tag": null
+                            },
+                            "start": 92083,
+                            "end": 92817,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "35",
+                            "label": "AXA20090.1",
+                            "names": {
+                                "name": "AXA20090.1",
+                                "description": "hybrid trans-AT PKS/NRPS LgaA",
+                                "id": "AXA20090.1",
+                                "locus_tag": null
+                            },
+                            "start": 3132,
+                            "end": 13793,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "36",
+                            "label": "AXA20107.1",
+                            "names": {
+                                "name": "AXA20107.1",
+                                "description": "hypothetical protein",
+                                "id": "AXA20107.1",
+                                "locus_tag": null
+                            },
+                            "start": 98927,
+                            "end": 99394,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "37",
+                            "label": "AXA20097.1",
+                            "names": {
+                                "name": "AXA20097.1",
+                                "description": "nuclear transport factor 2 (NTF2)-like protein LgaL",
+                                "id": "AXA20097.1",
+                                "locus_tag": null
+                            },
+                            "start": 86717,
+                            "end": 87112,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "38",
+                            "label": "AXA20089.1",
+                            "names": {
+                                "name": "AXA20089.1",
+                                "description": "hypothetical protein",
+                                "id": "AXA20089.1",
+                                "locus_tag": null
+                            },
+                            "start": 2828,
+                            "end": 3118,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "39",
+                            "label": "AXA20088.1",
+                            "names": {
+                                "name": "AXA20088.1",
+                                "description": "transposase",
+                                "id": "AXA20088.1",
+                                "locus_tag": null
+                            },
+                            "start": 2205,
+                            "end": 2315,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "40",
+                            "label": "AXA20087.1",
+                            "names": {
+                                "name": "AXA20087.1",
+                                "description": "competence protein ComEC",
+                                "id": "AXA20087.1",
+                                "locus_tag": null
+                            },
+                            "start": 1915,
+                            "end": 2109,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "41",
+                            "label": "AXA20094.1",
+                            "names": {
+                                "name": "AXA20094.1",
+                                "description": "acyltransferase LgaE",
+                                "id": "AXA20094.1",
+                                "locus_tag": null
+                            },
+                            "start": 57289,
+                            "end": 58401,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "42",
+                            "label": "AXA20093.1",
+                            "names": {
+                                "name": "AXA20093.1",
+                                "description": "trans-AT PKS LgaD",
+                                "id": "AXA20093.1",
+                                "locus_tag": null
+                            },
+                            "start": 53400,
+                            "end": 57239,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "43",
+                            "label": "AXA20091.1",
+                            "names": {
+                                "name": "AXA20091.1",
+                                "description": "hybrid trans-AT PKS/NRPS LgaB",
+                                "id": "AXA20091.1",
+                                "locus_tag": null
+                            },
+                            "start": 13790,
+                            "end": 33007,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "44",
+                            "label": "AXA20099.1",
+                            "names": {
+                                "name": "AXA20099.1",
+                                "description": "acylhydrolase LgaI",
+                                "id": "AXA20099.1",
+                                "locus_tag": null
+                            },
+                            "start": 88580,
+                            "end": 89593,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "45",
+                            "label": "AXA20106.1",
+                            "names": {
+                                "name": "AXA20106.1",
+                                "description": "all-trans-phytoene synthase",
+                                "id": "AXA20106.1",
+                                "locus_tag": null
+                            },
+                            "start": 98026,
+                            "end": 98871,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "46",
+                            "label": "AXA20096.1",
+                            "names": {
+                                "name": "AXA20096.1",
+                                "description": "trans-AT PKS LgaG",
+                                "id": "AXA20096.1",
+                                "locus_tag": null
+                            },
+                            "start": 59909,
+                            "end": 86623,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "47",
+                            "label": "AXA20086.1",
+                            "names": {
+                                "name": "AXA20086.1",
+                                "description": "sigma-70 RpoE",
+                                "id": "AXA20086.1",
+                                "locus_tag": null
+                            },
+                            "start": 1190,
+                            "end": 1714,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "48",
+                            "label": "AXA20101.1",
+                            "names": {
+                                "name": "AXA20101.1",
+                                "description": "cytochrome P450 LgaJ",
+                                "id": "AXA20101.1",
+                                "locus_tag": null
+                            },
+                            "start": 90836,
+                            "end": 92020,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 1190,
+                    "end": 99394
+                }
+            ]
+        },
+        {
+            "uid": "49",
+            "name": "GCF_002362315.1",
+            "loci": [
+                {
+                    "uid": "50",
+                    "name": "NZ_MTZV01000001.1",
+                    "genes": [
+                        {
+                            "uid": "51",
+                            "label": "WP_096716364.1",
+                            "names": {
+                                "name": "WP_096716364.1",
+                                "description": "nuclear transport factor 2 family protein",
+                                "id": "WP_096716364.1",
+                                "locus_tag": "BWP39_RS00035"
+                            },
+                            "start": 70745,
+                            "end": 71140,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "52",
+                            "label": "WP_207556501.1",
+                            "names": {
+                                "name": "WP_207556501.1",
+                                "description": "PfaD family polyunsaturated fatty acid/polyketide biosynthesis protein",
+                                "id": "WP_207556501.1",
+                                "locus_tag": "BWP39_RS00025"
+                            },
+                            "start": 41546,
+                            "end": 42889,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "53",
+                            "label": "WP_096716370.1",
+                            "names": {
+                                "name": "WP_096716370.1",
+                                "description": "TonB-dependent siderophore receptor",
+                                "id": "WP_096716370.1",
+                                "locus_tag": "BWP39_RS00065"
+                            },
+                            "start": 76745,
+                            "end": 78901,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "54",
+                            "label": "WP_096716372.1",
+                            "names": {
+                                "name": "WP_096716372.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_096716372.1",
+                                "locus_tag": "BWP39_RS00080"
+                            },
+                            "start": 81304,
+                            "end": 81645,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "55",
+                            "label": "WP_170043813.1",
+                            "names": {
+                                "name": "WP_170043813.1",
+                                "description": "beta-ketoacyl synthase N-terminal-like domain-containing protein",
+                                "id": "WP_170043813.1",
+                                "locus_tag": "BWP39_RS00015"
+                            },
+                            "start": 37636,
+                            "end": 40314,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "56",
+                            "label": "WP_096716374.1",
+                            "names": {
+                                "name": "WP_096716374.1",
+                                "description": "glucose-6-phosphate isomerase",
+                                "id": "WP_096716374.1",
+                                "locus_tag": "BWP39_RS00095"
+                            },
+                            "start": 83260,
+                            "end": 84885,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "57",
+                            "label": "WP_096716366.1",
+                            "names": {
+                                "name": "WP_096716366.1",
+                                "description": "acyltransferase domain-containing protein",
+                                "id": "WP_096716366.1",
+                                "locus_tag": "BWP39_RS00045"
+                            },
+                            "start": 72711,
+                            "end": 73727,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "58",
+                            "label": "WP_096716369.1",
+                            "names": {
+                                "name": "WP_096716369.1",
+                                "description": "SDR family oxidoreductase",
+                                "id": "WP_096716369.1",
+                                "locus_tag": "BWP39_RS00060"
+                            },
+                            "start": 75550,
+                            "end": 76365,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "59",
+                            "label": "WP_096716368.1",
+                            "names": {
+                                "name": "WP_096716368.1",
+                                "description": "4'-phosphopantetheinyl transferase superfamily protein",
+                                "id": "WP_096716368.1",
+                                "locus_tag": "BWP39_RS00055"
+                            },
+                            "start": 74567,
+                            "end": 75343,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "60",
+                            "label": "WP_096716371.1",
+                            "names": {
+                                "name": "WP_096716371.1",
+                                "description": "SurA N-terminal domain-containing protein",
+                                "id": "WP_096716371.1",
+                                "locus_tag": "BWP39_RS00075"
+                            },
+                            "start": 79239,
+                            "end": 81170,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "61",
+                            "label": "WP_096716365.1",
+                            "names": {
+                                "name": "WP_096716365.1",
+                                "description": "MATE family efflux transporter",
+                                "id": "WP_096716365.1",
+                                "locus_tag": "BWP39_RS00040"
+                            },
+                            "start": 71277,
+                            "end": 72635,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "62",
+                            "label": "WP_207556499.1",
+                            "names": {
+                                "name": "WP_207556499.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_207556499.1",
+                                "locus_tag": "BWP39_RS00005"
+                            },
+                            "start": 12,
+                            "end": 16796,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "63",
+                            "label": "WP_096716373.1",
+                            "names": {
+                                "name": "WP_096716373.1",
+                                "description": "arylesterase",
+                                "id": "WP_096716373.1",
+                                "locus_tag": "BWP39_RS00085"
+                            },
+                            "start": 81765,
+                            "end": 82466,
+                            "strand": -1
+                        },
+                        {
+                            "uid": "64",
+                            "label": "WP_096716691.1",
+                            "names": {
+                                "name": "WP_096716691.1",
+                                "description": "ACP S-malonyltransferase",
+                                "id": "WP_096716691.1",
+                                "locus_tag": "BWP39_RS00020"
+                            },
+                            "start": 40359,
+                            "end": 41507,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "65",
+                            "label": "WP_096716363.1",
+                            "names": {
+                                "name": "WP_096716363.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_096716363.1",
+                                "locus_tag": "BWP39_RS00030"
+                            },
+                            "start": 43023,
+                            "end": 70673,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "66",
+                            "label": "WP_096716360.1",
+                            "names": {
+                                "name": "WP_096716360.1",
+                                "description": "SDR family NAD(P)-dependent oxidoreductase",
+                                "id": "WP_096716360.1",
+                                "locus_tag": "BWP39_RS32040"
+                            },
+                            "start": 16793,
+                            "end": 37639,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "67",
+                            "label": "WP_096716367.1",
+                            "names": {
+                                "name": "WP_096716367.1",
+                                "description": "hypothetical protein",
+                                "id": "WP_096716367.1",
+                                "locus_tag": "BWP39_RS00050"
+                            },
+                            "start": 73812,
+                            "end": 74555,
+                            "strand": 1
+                        },
+                        {
+                            "uid": "68",
+                            "label": "WP_091016627.1",
+                            "names": {
+                                "name": "WP_091016627.1",
+                                "description": "ABC transporter ATP-binding protein",
+                                "id": "WP_091016627.1",
+                                "locus_tag": "BWP39_RS00090"
+                            },
+                            "start": 82465,
+                            "end": 83151,
+                            "strand": 1
+                        }
+                    ],
+                    "start": 12,
+                    "end": 84885
+                }
+            ]
+        }
+    ],
+    "links": [
+        {
+            "uid": "69",
+            "target": {
+                "uid": "47",
+                "name": "47"
+            },
+            "query": {
+                "uid": "13",
+                "name": "13"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "70",
+            "target": {
+                "uid": "40",
+                "name": "40"
+            },
+            "query": {
+                "uid": "7",
+                "name": "7"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "71",
+            "target": {
+                "uid": "39",
+                "name": "39"
+            },
+            "query": {
+                "uid": "5",
+                "name": "5"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "72",
+            "target": {
+                "uid": "38",
+                "name": "38"
+            },
+            "query": {
+                "uid": "4",
+                "name": "4"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "73",
+            "target": {
+                "uid": "35",
+                "name": "35"
+            },
+            "query": {
+                "uid": "24",
+                "name": "24"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "74",
+            "target": {
+                "uid": "43",
+                "name": "43"
+            },
+            "query": {
+                "uid": "9",
+                "name": "9"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "75",
+            "target": {
+                "uid": "30",
+                "name": "30"
+            },
+            "query": {
+                "uid": "18",
+                "name": "18"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "76",
+            "target": {
+                "uid": "42",
+                "name": "42"
+            },
+            "query": {
+                "uid": "8",
+                "name": "8"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "77",
+            "target": {
+                "uid": "41",
+                "name": "41"
+            },
+            "query": {
+                "uid": "6",
+                "name": "6"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "78",
+            "target": {
+                "uid": "31",
+                "name": "31"
+            },
+            "query": {
+                "uid": "19",
+                "name": "19"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "79",
+            "target": {
+                "uid": "46",
+                "name": "46"
+            },
+            "query": {
+                "uid": "12",
+                "name": "12"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "80",
+            "target": {
+                "uid": "37",
+                "name": "37"
+            },
+            "query": {
+                "uid": "3",
+                "name": "3"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "81",
+            "target": {
+                "uid": "28",
+                "name": "28"
+            },
+            "query": {
+                "uid": "16",
+                "name": "16"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "82",
+            "target": {
+                "uid": "44",
+                "name": "44"
+            },
+            "query": {
+                "uid": "10",
+                "name": "10"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "83",
+            "target": {
+                "uid": "27",
+                "name": "27"
+            },
+            "query": {
+                "uid": "15",
+                "name": "15"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "84",
+            "target": {
+                "uid": "48",
+                "name": "48"
+            },
+            "query": {
+                "uid": "14",
+                "name": "14"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "85",
+            "target": {
+                "uid": "34",
+                "name": "34"
+            },
+            "query": {
+                "uid": "22",
+                "name": "22"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "86",
+            "target": {
+                "uid": "33",
+                "name": "33"
+            },
+            "query": {
+                "uid": "21",
+                "name": "21"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "87",
+            "target": {
+                "uid": "32",
+                "name": "32"
+            },
+            "query": {
+                "uid": "20",
+                "name": "20"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "88",
+            "target": {
+                "uid": "29",
+                "name": "29"
+            },
+            "query": {
+                "uid": "17",
+                "name": "17"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "89",
+            "target": {
+                "uid": "45",
+                "name": "45"
+            },
+            "query": {
+                "uid": "11",
+                "name": "11"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "90",
+            "target": {
+                "uid": "36",
+                "name": "36"
+            },
+            "query": {
+                "uid": "23",
+                "name": "23"
+            },
+            "identity": 1.0
+        },
+        {
+            "uid": "91",
+            "target": {
+                "uid": "62",
+                "name": "62"
+            },
+            "query": {
+                "uid": "9",
+                "name": "9"
+            },
+            "identity": 0.727
+        },
+        {
+            "uid": "92",
+            "target": {
+                "uid": "66",
+                "name": "66"
+            },
+            "query": {
+                "uid": "18",
+                "name": "18"
+            },
+            "identity": 0.7170000000000001
+        },
+        {
+            "uid": "93",
+            "target": {
+                "uid": "55",
+                "name": "55"
+            },
+            "query": {
+                "uid": "8",
+                "name": "8"
+            },
+            "identity": 0.504
+        },
+        {
+            "uid": "94",
+            "target": {
+                "uid": "64",
+                "name": "64"
+            },
+            "query": {
+                "uid": "6",
+                "name": "6"
+            },
+            "identity": 0.795
+        },
+        {
+            "uid": "95",
+            "target": {
+                "uid": "52",
+                "name": "52"
+            },
+            "query": {
+                "uid": "19",
+                "name": "19"
+            },
+            "identity": 0.87
+        },
+        {
+            "uid": "96",
+            "target": {
+                "uid": "65",
+                "name": "65"
+            },
+            "query": {
+                "uid": "12",
+                "name": "12"
+            },
+            "identity": 0.718
+        },
+        {
+            "uid": "97",
+            "target": {
+                "uid": "51",
+                "name": "51"
+            },
+            "query": {
+                "uid": "3",
+                "name": "3"
+            },
+            "identity": 0.733
+        },
+        {
+            "uid": "98",
+            "target": {
+                "uid": "61",
+                "name": "61"
+            },
+            "query": {
+                "uid": "16",
+                "name": "16"
+            },
+            "identity": 0.763
+        },
+        {
+            "uid": "99",
+            "target": {
+                "uid": "57",
+                "name": "57"
+            },
+            "query": {
+                "uid": "10",
+                "name": "10"
+            },
+            "identity": 0.71
+        },
+        {
+            "uid": "100",
+            "target": {
+                "uid": "67",
+                "name": "67"
+            },
+            "query": {
+                "uid": "22",
+                "name": "22"
+            },
+            "identity": 0.705
+        },
+        {
+            "uid": "101",
+            "target": {
+                "uid": "58",
+                "name": "58"
+            },
+            "query": {
+                "uid": "21",
+                "name": "21"
+            },
+            "identity": 0.831
+        }
+    ],
+    "groups": [
+        {
+            "uid": "102",
+            "label": "AXA20086.1 sigma-70 RpoE",
+            "genes": [
+                "13",
+                "47"
+            ]
+        },
+        {
+            "uid": "103",
+            "label": "AXA20087.1 competence protein ComEC",
+            "genes": [
+                "7",
+                "40"
+            ]
+        },
+        {
+            "uid": "104",
+            "label": "AXA20088.1 transposase",
+            "genes": [
+                "5",
+                "39"
+            ]
+        },
+        {
+            "uid": "105",
+            "label": "AXA20089.1 hypothetical protein",
+            "genes": [
+                "4",
+                "38"
+            ]
+        },
+        {
+            "uid": "106",
+            "label": "AXA20090.1 hybrid trans-AT PKS/NRPS LgaA",
+            "genes": [
+                "24",
+                "35"
+            ]
+        },
+        {
+            "uid": "107",
+            "label": "AXA20091.1 hybrid trans-AT PKS/NRPS LgaB",
+            "genes": [
+                "9",
+                "43"
+            ]
+        },
+        {
+            "uid": "108",
+            "label": "AXA20092.1 trans-AT PKS LgaC",
+            "genes": [
+                "18",
+                "30"
+            ]
+        },
+        {
+            "uid": "109",
+            "label": "AXA20093.1 trans-AT PKS LgaD",
+            "genes": [
+                "8",
+                "42"
+            ]
+        },
+        {
+            "uid": "110",
+            "label": "AXA20094.1 acyltransferase LgaE",
+            "genes": [
+                "6",
+                "41"
+            ]
+        },
+        {
+            "uid": "111",
+            "label": "AXA20095.1 enoylreductase LgaF",
+            "genes": [
+                "19",
+                "31"
+            ]
+        },
+        {
+            "uid": "112",
+            "label": "AXA20096.1 trans-AT PKS LgaG",
+            "genes": [
+                "12",
+                "46"
+            ]
+        },
+        {
+            "uid": "113",
+            "label": "AXA20097.1 nuclear transport factor 2 (NTF2)-like protein LgaL",
+            "genes": [
+                "3",
+                "37"
+            ]
+        },
+        {
+            "uid": "114",
+            "label": "AXA20098.1 MATE family efflux transporter LgaH",
+            "genes": [
+                "16",
+                "28"
+            ]
+        },
+        {
+            "uid": "115",
+            "label": "AXA20099.1 acylhydrolase LgaI",
+            "genes": [
+                "10",
+                "44"
+            ]
+        },
+        {
+            "uid": "116",
+            "label": "AXA20100.1 transposase",
+            "genes": [
+                "15",
+                "27"
+            ]
+        },
+        {
+            "uid": "117",
+            "label": "AXA20101.1 cytochrome P450 LgaJ",
+            "genes": [
+                "14",
+                "48"
+            ]
+        },
+        {
+            "uid": "118",
+            "label": "AXA20102.1 LgaM",
+            "genes": [
+                "22",
+                "34"
+            ]
+        },
+        {
+            "uid": "119",
+            "label": "AXA20103.1 ketoreductase LgaK",
+            "genes": [
+                "21",
+                "33"
+            ]
+        },
+        {
+            "uid": "120",
+            "label": "AXA20104.1 phosphoenolpyruvate-protein phosphotransferase",
+            "genes": [
+                "20",
+                "32"
+            ]
+        },
+        {
+            "uid": "121",
+            "label": "AXA20105.1 squalene--hopene cyclase",
+            "genes": [
+                "17",
+                "29"
+            ]
+        },
+        {
+            "uid": "122",
+            "label": "AXA20106.1 all-trans-phytoene synthase",
+            "genes": [
+                "11",
+                "45"
+            ]
+        },
+        {
+            "uid": "123",
+            "label": "AXA20107.1 hypothetical protein",
+            "genes": [
+                "23",
+                "36"
+            ]
+        }
+    ]
+}
